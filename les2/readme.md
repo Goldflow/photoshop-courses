@@ -56,7 +56,44 @@
 - Selecteer de laag met de gradient en selecteer de blending mode "lighten". Pas eventueel de opacity van de laag aan.
 - Werk de donkere randen van de MIA afbeelding weg, dit doe je via een layer mask en de brush tool (zwarte brush).
 
-![](https://cl.ly/3I1f3t0c2E3A/Screen%20Recording%202016-11-20%20at%2008.49%20PM.gif)
+### 1.3 Afbeeldingen opzoeken & gebruiken
+#### Zoekmachines:
+- [https://www.bing.com/](https://www.bing.com/ "https://www.bing.com/")
+- [https://www.google.be/imghp?hl=en&tab=wi&authuser=0&ogbl](https://www.google.be/imghp?hl=en&tab=wi&authuser=0&ogbl "https://www.google.be/imghp")
+
+- probeer te letten op de resolutie: 1600 op 1400 is een goeie standaard
+- afbeeldingen zonder tekst of teveel bewerkingen
+
+Goeie resources for stock photos:
+
+Pexels - [https://www.pexels.com/](https://www.pexels.com/)
+
+Pixabay - [https://pixabay.com/](https://pixabay.com/)
+
+Free Nature Stock - http://freenaturestock.com/
+
+Barn Images - https://barnimages.com/
+
+Foodies Feed - https://www.foodiesfeed.com/
+
+StockSnap - https://stocksnap.io/
+
+### 1.4 Color Picker oefening
+
+- Maak nieuw bestand van 1600px op 1400px (ctrl + n)
+- Plaats colorful.jpg in het midden van de file
+
+![](colorpicker.gif)
+
+- Met de colorpicker kan je een kleur kiezen uit een bestaand bestand
+- Zoek een afbeelding van een persoon in hoge kwaliteit, iets rond 1600x1400 (mag iets minder/meer zijn)
+- Maak nu oefening 1.2 opnieuw zelfstandig maar gebruik deze keer een zelfgekozen zwart wit bestand
+
+#### na afloop:
+- sla deze compositie op als colorpicker_voornaam_naam_2020-09-22.psd en upload deze
+
+#### extra uitdagingen for Color Picker oefening:
+- doe hetzelfde nog of meerdere keren, en probeer een leuke compositie te vinden
 
 ## 2. Slicing
 
@@ -106,6 +143,9 @@ Hoe slicen?
 ![Export slices](https://cl.ly/2a0q203R0A2r/Screen%20Recording%202016-10-30%20at%2010.11%20AM.gif)
 
 :collision: Belangrijk bij het slicen is om met precisie te handelen. Er mogen geen stukken van de afbeelding worden afgesneden en er mag ook geen overbodige ruimte worden meegesliced.
+
+#### na afloop:
+- sla 3 willekeurige slices op, je mag doe noemen hoe je wil, upload die in de upload zone
 
 ## 3. Tekst
 
