@@ -88,12 +88,13 @@ StockSnap - https://stocksnap.io/
 - Met de colorpicker kan je een kleur kiezen uit een bestaand bestand
 - Zoek een afbeelding van een persoon in hoge kwaliteit, iets rond 1600x1400 (mag iets minder/meer zijn)
 - Maak nu oefening 1.2 opnieuw zelfstandig maar gebruik deze keer een zelfgekozen zwart wit bestand
+- 
+#### extra uitdagingen for Color Picker oefening:
+- doe hetzelfde nog op zijn minst 1 keer in hetzelfde bestand, en probeer een leuke compositie te vinden
 
 #### na afloop:
 - sla deze compositie op als colorpicker_voornaam_naam_2020-09-22.psd en upload deze
 
-#### extra uitdagingen for Color Picker oefening:
-- doe hetzelfde nog of meerdere keren, en probeer een leuke compositie te vinden
 
 ## 2. Slicing
 
