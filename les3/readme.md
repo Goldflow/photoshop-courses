@@ -59,9 +59,17 @@ Vaak voelt de Inhoud Bewaren tool aan als een beetje magie. Maar in veel gevalle
 ![flower_content_aware.gif](flower_content_aware.gif)
 
 #### Opdracht
-Probeer dit nu opnieuw met deze vogel in de lucht. Zie bestand birdsky.jpg.
+smartschool.PNG
 
-Als dat gelukt is, zoek een paar foto's op het internet en probeer dat daarmee ook.
+neem het bestand smartschool en doe oefening 3.1
+
+- verwijder de zeppelin & het bord "zoek een job bij smartschool"
+
+- bonus punten voor de mensen die de zeppelin in het gras kunnen plaatsen zonder het blauw errond
+
+verwijder_persoon
+
+zoek een foto van 1 of meerdere personen en probeer die persoon eruit te kruigen
 
 ### 3.2 Snel Retoucheer Penseel (Spot Healing Brush Tool)
 
@@ -125,54 +133,7 @@ Bijvoorbeeld profielfoto in cirkel...
 - Sleep de laag met de cirkel onder de laag met de afbeelding met de bergen.
 - Selecteer de laag met de bergen, rechtermuisknop, "Uitknip Masker maken"
 
-## 5. De Pen Tool
-
-De pen tool wordt gebruikt om zelf vormen te tekenen.
-Dit kan je doen door de pentool te selecteren in het gereedschapspanel of via de shortcut "p".
-![Pen Tool](https://cl.ly/1w411w1G3y3l/Image%202016-10-29%20at%202.37.59%20PM.png "Pen Tool")
-
-We beginnen met de pen tool:
-- Selecteer de pentool
-- Zorg ervoor dat de pen tool in de optiebalk op shape staat en niet op path.
-- Kies een voorgrondkleur bv. rood zodat je ziet wat je tekent.
-- Vervolgens klik je ergens op jouw artboard. Ieder keer je klikt maak je een anchor. Maak bijvoorbeeld een driehoek. Een gouden regel als je de pen tool gebruikt is om zo weinig mogelijk anchor points te gebruiken dit zal ervoor zorgen dat de vorm er smooth uitziet. Om een rechte lijn te maken hou je de shift toets ingedrukt terwijl je een anchor point maakt.
-
-![Pen Tool](https://cl.ly/2C0D1c1R1b0z/Screen%20Recording%202016-10-29%20at%2002.44%20PM.gif"Pen Tool")
-
-- Om een curve te maken hou je de muis ingeklikt wanneer je een nieuw anchor point hebt gemaakt en sleep je met de muis.
-
-![Pen Tool](https://cl.ly/2y160G413M1X/Screen%20Recording%202016-10-29%20at%2002.50%20PM.gif "Pen Tool")
-
-- Een vorm is klaar wanneer je terug klikt op het beginpunt / eerste anchorpoint.
-- De vorm kan je achteraf nog aanpassen door middel van de "direct selection tool"
-
-![Pen Tool](https://cl.ly/2T1a2s151P28/Screen%20Recording%202016-10-29%20at%2003.03%20PM.gif "Pen Tool")
-
-- Achteraf kan je ook nog extra anchor points toevoegen a.d.h.v. "add anchor point"
-
-![Pen Tool](https://cl.ly/382r3v1t2t0W/Screen%20Recording%202016-10-29%20at%2003.07%20PM.gif "Pen Tool")
-
-- Op deze manier kan je ook anchor points verwijderen via de "delete anchor point" optie.
-
-![Pen Tool](https://cl.ly/1q1J1w0I2g04/Screen%20Recording%202016-10-29%20at%2003.13%20PM.gif "Pen Tool")
-
-- Je kan een zelfgemaakte vorm ook opslaan en hergebruiken dit doe je op de volgende manier. Selecteer de pen tool, rechtermuisknop op onze shape / vorm.
-
-![Pen Tool](https://cl.ly/210b2X430B3K/Screen%20Recording%202016-10-29%20at%2003.19%20PM.gif "Pen Tool")
-
-- De zelfgemaakt vorm kan je nu opnieuw gebruiken via de "custom shape tool"
-
-![Pen Tool](https://cl.ly/1u271p2Z310p/Screen%20Recording%202016-10-29%20at%2003.22%20PM.gif "Pen Tool")
-
-### 5.1 Oefening op de pen tool:
-
-![Pen Tool oefening](http://psd.fanextra.com/wp-content/uploads/2009/03/pathfinal.jpg)
-
-[http://psd.fanextra.com/tutorials/become-a-master-of-the-pen-tool-in-under-30-minutes/](http://psd.fanextra.com/tutorials/become-a-master-of-the-pen-tool-in-under-30-minutes/)
-
-:zap: TIP Je kan de pen tool ook gebruiken om vector masks te maken op basis van een selectie / vorm. En zo dingen uit een foto te knippen.
-
-## 6. Colors / Kleuren in Photoshop
+## 5. Colors / Kleuren in Photoshop
 
 Zoals jullie waarschijnlijk al opgemerkt hebben heb je in photoshop een "onbeperkte keuze" aan kleuren. En doordat er zo veel kleuren zijn is het niet altijd even makkelijk om kleuren uit te kiezen voor designs (zeker in het begin niet).
 
@@ -185,7 +146,7 @@ Goede bronnen / websites voor kleurengebruik:
 - [Vanschneider](http://www.vanschneider.com/colors/)
 - [Coolors](https://coolors.co/6b6d76-a69888-fcbfb7-334e58-33261d)
 
-## 7. Resources / Inspiratie voor (web) Designers en Developers
+## 6. Resources / Inspiratie voor (web) Designers en Developers
 
 Web design / Development is een domein die constant verandert, er komen nieuwe technologieën, nieuwe trends, etc. Daarom is het belangrijk om mee te blijven met de laatste ontwikkelingen en trends.
 
@@ -199,7 +160,7 @@ Deze websites moeten jullie in de gaten houden:
 - [Muz.li](http://muz.li/)
 - [Codrops](http://tympanus.net/codrops/)
 
-## 8. Introductie websites met Photoshop maken
+## 7. Introductie websites met Photoshop maken
 
 Nu jullie al een goede basis hebben van Photoshop, kunnen we een stapje verder en kunnen we beginnen met het effectief designen van websites.
 
@@ -208,3 +169,5 @@ Zoals je al gemerkt hebben bij het slicen bestaan websites uit tekst, fotos, ico
 Om even te illustreren hoe een website gemaakt wordt met Photoshop kunnen jullie de file Web.psd openen. Aan de hand van dit voorbeeld kunnen jullie ook zien hoe lagen worden gestructureerd en gegroepeerd om een overzichtelijk resultaat te bekomen.
 
 Je kan ook zien dat de profielfoto in de cirkel a.d.h.v. een clipping mask wordt gemaakt zoals in onze oefening 3.2
+
+## 8. Oefening lange duur:
