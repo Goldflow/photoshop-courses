@@ -160,16 +160,6 @@ Deze websites moeten jullie in de gaten houden:
 - [Muz.li](http://muz.li/)
 - [Codrops](http://tympanus.net/codrops/)
 
-## 7. Introductie websites met Photoshop maken
-
-Nu jullie al een goede basis hebben van Photoshop, kunnen we een stapje verder en kunnen we beginnen met het effectief designen van websites.
-
-Zoals je al gemerkt hebben bij het slicen bestaan websites uit tekst, fotos, iconen, buttons, etc.
-
-Om even te illustreren hoe een website gemaakt wordt met Photoshop kunnen jullie de file Web.psd openen. Aan de hand van dit voorbeeld kunnen jullie ook zien hoe lagen worden gestructureerd en gegroepeerd om een overzichtelijk resultaat te bekomen.
-
-Je kan ook zien dat de profielfoto in de cirkel a.d.h.v. een clipping mask wordt gemaakt zoals in onze oefening 3.2
-
 ## 8. Oefening lange duur:
 
 Film Poster
