@@ -1,5 +1,12 @@
 # Photoshop Les 3
 
+## 0. Afbeelding importeren
+
+Als je wil dat je photoshop document automatisch de grootte neemt van je afbeelding, moet je je afbeelding in de layers laag slepen:
+
+![afbeeldingimporteren.gif](afbeeldingimporteren.gif)
+
+
 ## 1. Oefening
 
 Blur oefening:
@@ -8,21 +15,20 @@ De achtergrond vervagen en een persoon of een voorwerp scherp houden.
 - Open blur.jpg in Photoshop
 - Dupliceer de background als nieuwe layer
 - Geef de 2 layers een gepaste naam
-- Pas de filter blur > gaussian blur toe op de bovenste laag
-
-![https://cl.ly/2x1P321x2e1W/Screen%20Recording%202016-11-28%20at%2009.13%20PM.gif](https://cl.ly/2x1P321x2e1W/Screen%20Recording%202016-11-28%20at%2009.13%20PM.gif)
+- Pas de filter "Vervagen" (blur) > "Gaussiaans vervagen" (gaussian blur) toe op de bovenste laag
 
 - De afbeelding mag goed wazig (blur) zijn, dus geef deze een value van ongeveer 70. En klik op OK.
 
-![https://cl.ly/3I1E1W1K1Z1L/Screen%20Recording%202016-11-28%20at%2009.16%20PM.gif](https://cl.ly/3I1E1W1K1Z1L/Screen%20Recording%202016-11-28%20at%2009.16%20PM.gif)
+![blur.gif](blur.gif)
 
-- Maak nu een layer mask op de blur laag en gebruik de brush (zwart!) om de blur te verwijderen op de persoon en zo de persoon terug scherp te maken.
+- Maak nu een laagmasker (layer mask) op de wazige laag en gebruik de brush (zwart!) om de wazige laag te verwijderen op de persoon en zo de persoon terug scherp te maken.
 
-## 2. Ressources voor Typografie
-
-Vorige les heb ik kort het verschil tussen serif en sans-serif fonts uitgelegd. Ik heb jullie ook getoond waar je lettertypes kunnen vinden en downloaden (google fonts, font-squirrel, etc.).
+## 2. Resources voor Typografie
+In vorige les reeds enkele resources voor fonts meegegeven, o.a.: waar je lettertypes kunnen vinden en downloaden (google fonts, font-squirrel, etc.).
 
 In het begin is het niet altijd evident om mooie / gebruiksvriendelijke fonts te kiezen.
+
+Hier zijn enkele lips om daar nog meer over te leren
 
 - [Learn typography in 10 minutes](http://practicaltypography.com/typography-in-ten-minutes.html)
 - [Typography Guide](http://www.typogui.de/)
@@ -34,10 +40,10 @@ In het begin is het niet altijd evident om mooie / gebruiksvriendelijke fonts te
 - [Font pair](http://fontpair.co/)
 - [Font wolf](https://www.typewolf.com/)
 
-## 3. Content Aware Tool
+## 3. Inhoud Bewaren Tool - (Content Aware)
 
-Via de content aware tool kan je objecten uit een foto halen / verplaatsen.
-Vaak voelt de content aware tool aan als een beetje magie. Maar in veel gevallen levert de content aware tool niet altijd een perfect resultaat op.
+Via de Inhoud Bewaren tool kan je objecten uit een foto halen / verplaatsen.
+Vaak voelt de Inhoud Bewaren tool aan als een beetje magie. Maar in veel gevallen levert de Inhoud Bewaren tool niet altijd een perfect resultaat op.
 
 ### 3.1 Een element uit een foto verwijderen
 
@@ -45,68 +51,67 @@ Vaak voelt de content aware tool aan als een beetje magie. Maar in veel gevallen
 - Maak een vlugge selectie rond de bloem a.d.h.v. de lasso tool
 - Zorg ervoor dat de selectie eindigt bij het beginpunt van de selectie zodat je een stippellijn te zien krijgt.
 
-![https://cl.ly/211i1V1v0306/Screen%20Recording%202016-11-27%20at%2007.46%20PM.gif](https://cl.ly/211i1V1v0306/Screen%20Recording%202016-11-27%20at%2007.46%20PM.gif)
-
-- Klik vervolgens op rechtermuisknop, fill (of via de menu edit > fill)
+- Klik vervolgens op rechtermuisknop en druk op "Vullen"
 - Vervolgens krijg je een pop-up venster te zien.
-- Zorg ervoor dat content-aware geselecteerd staat en de optie color adaptation aangevinkt staat.
+- Zorg ervoor dat "Inhoud Bewaren" geselecteerd staat en de optie "Kleur Adaptatie" aangevinkt staat.
 - Kies voor ok
 
-![https://cl.ly/2P1i2x2i0x10/Screen%20Recording%202016-11-27%20at%2007.57%20PM.gif](https://cl.ly/2P1i2x2i0x10/Screen%20Recording%202016-11-27%20at%2007.57%20PM.gif)
+![flower_content_aware.gif](flower_content_aware.gif)
 
-### 3.2 Spot Healing Brush Tool
+#### Opdracht
+Probeer dit nu opnieuw met deze vogel in de lucht. Zie bestand birdsky.jpg.
 
-De spot healing brush tool kan gebruik worden om foto's te retoucheren.
+Als dat gelukt is, zoek een paar foto's op het internet en probeer dat daarmee ook.
+
+### 3.2 Snel Retoucheer Penseel (Spot Healing Brush Tool)
+
+Het Snel Retoucheer Penseel kan gebruik worden om foto's te retoucheren.
 De spot healing kan bijvoorbeeld gebruikt worden om oneffenheden (zoals puistjes) bij personen weg te werken.
 
 - Open acne.jpg
-- Selecteer de spot healing brush tool (in het gereedschapspanel boven de brush tool)
+- Selecteer het Snel Retoucheer Penseel (in het gereedschapspanel boven de brush tool)
 - Klik en sleep over de puistjes en laat los
 - Net zoals de klassieke brush tool kan je ook de healing brush tool van grootte aanpassen, dit doe je via het menu vanboven.
 
-![https://cl.ly/2y3y3w231V1i/Screen%20Recording%202016-11-27%20at%2008.36%20PM.gif](https://cl.ly/2y3y3w231V1i/Screen%20Recording%202016-11-27%20at%2008.36%20PM.gif)
+![retouche.gif](retouche.gif)
 
-De spot healing brush tool kan niet enkel worden gebruikt om oneffenheden bij personen weg te werken.
+Het Snel Retoucheer Penseel kan niet enkel worden gebruikt om oneffenheden bij personen weg te werken.
 Maar kan bijvoorbeeld ook gebruikt worden om een storende elektriciteitskabel uit een foto te halen.
 
 - Open house.jpg
-- Selecteer opnieuw de healing brush tool.
+- Selecteer opnieuw het Snel Retoucheer Penseel.
 - En verwijder de kabel op de achtergrond. En andere oneffenheden...
 
 ![https://cl.ly/1b0K1w2r0J1d/Screen%20Recording%202016-11-27%20at%2008.51%20PM.gif](https://cl.ly/1b0K1w2r0J1d/Screen%20Recording%202016-11-27%20at%2008.51%20PM.gif)
 
-### 3.3 De content aware move tool
+### 3.3 De Verplaatsen met behoud van inhoud tool ( Content aware move tool )
 
 - Open pineapple.jpg
-- Selecteer de content move tool uit het gereedschapspanel
+- Selecteer de Verplaatsen met behoud van inhoud tool uit het gereedschapspanel
 - Maak een selectie rond een ananas (zorg ervoor dat je de schaduw rond de ananas ook meeneemt)
-
-![https://cl.ly/1O2j2i002f2X/Screen%20Recording%202016-11-27%20at%2009.06%20PM.gif](https://cl.ly/1O2j2i002f2X/Screen%20Recording%202016-11-27%20at%2009.06%20PM.gif)
 
 - Verplaats de selectie naar de gewenste Plaats
 - Bevestig door enter te drukken of door op het vinkje vanboven in het menu te klikken
 
-![https://cl.ly/1M3L200S150d/Screen%20Recording%202016-11-27%20at%2009.08%20PM.gif](https://cl.ly/1M3L200S150d/Screen%20Recording%202016-11-27%20at%2009.08%20PM.gif)
+![pineapple.gif](pineapple.gif)
 
+## 4. Uitknip Maskers (Clipping masks)
 
-## 4. Clipping masks
-
-### 4.1 Clipping masks met tekst
+### 4.1 Uitknip Masker met tekst
 
 - Maak een nieuw photoshop bestand (bv. 1000px op 800px)
-- Voeg de afbeelding mountains.jpg er aan toe (slepen) en vergroot de afbeelding tot het wit van de achtergrond volledig bedekt is. (opgelet hou shift ingedrukt, zodat de afbeelding mooi verschaalt).
+- Voeg de afbeelding mountains.jpg er aan toe (slepen) en vergroot de afbeelding tot het wit van de achtergrond volledig bedekt is. (opgelet hou shift ingedrukt, zodat de afbeelding mooi verschaalt)
 
 ![https://cl.ly/0U1Q422c2707/Screen%20Recording%202016-11-28%20at%2009.34%20PM.gif](https://cl.ly/0U1Q422c2707/Screen%20Recording%202016-11-28%20at%2009.34%20PM.gif)
 
-- Gebruik de type tool en typ bv. Mountains (gebruik een duidelijk lettertyp bv. FUTURA)
-
-![https://cl.ly/1n1e0F0Y2p25/Screen%20Recording%202016-11-28%20at%2009.40%20PM.gif](https://cl.ly/1n1e0F0Y2p25/Screen%20Recording%202016-11-28%20at%2009.40%20PM.gif)
+- Gebruik de type tool en typ bv. Mountains (gebruik een duidelijk lettertyp bv. Gill Sans Ultra Bold)
 
 - Sleep de laag met de tekst onder de afbeelding met de bergen.
-- Selecteer de laag met de bergen en klik rechtermuisknop "create clipping mask"
+- Selecteer de laag met de bergen en klik rechtermuisknop "Uitknip Masker maken"
 
+![bergen.gif](bergen.gif)
 
-### 4.2 Clipping masks met vormen
+### 4.2 Uitknip Masker met vormen
 
 Bijvoorbeeld profielfoto in cirkel...
 
@@ -118,7 +123,7 @@ Bijvoorbeeld profielfoto in cirkel...
 ![https://cl.ly/1e2K1o3q0L3D/Screen%20Recording%202016-11-28%20at%2009.54%20PM.gif](https://cl.ly/1e2K1o3q0L3D/Screen%20Recording%202016-11-28%20at%2009.54%20PM.gif)
 
 - Sleep de laag met de cirkel onder de laag met de afbeelding met de bergen.
-- Selecteer de laag met de bergen, rechtermuisknop, "create clipping mask"
+- Selecteer de laag met de bergen, rechtermuisknop, "Uitknip Masker maken"
 
 ## 5. De Pen Tool
 
@@ -180,7 +185,7 @@ Goede bronnen / websites voor kleurengebruik:
 - [Vanschneider](http://www.vanschneider.com/colors/)
 - [Coolors](https://coolors.co/6b6d76-a69888-fcbfb7-334e58-33261d)
 
-## 7. Ressources / Inspiratie voor (web) Designers en Developers
+## 7. Resources / Inspiratie voor (web) Designers en Developers
 
 Web design / Development is een domein die constant verandert, er komen nieuwe technologieën, nieuwe trends, etc. Daarom is het belangrijk om mee te blijven met de laatste ontwikkelingen en trends.
 
