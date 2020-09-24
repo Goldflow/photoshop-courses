@@ -186,7 +186,7 @@ Je maakt een originele filmposter in photoshop van nul.
 - geef alle lagen een juiste naam
 - probeer met bestanden te werken met een hoge resolutie
 
-- ik verwacht dat je tegen volgende week donderdag hier al mee begonnen bent, ik zal een tussentijdse evaluatie doen en je tips geven ivm kleuren / font en of je bron bestanden goed genoeg zijn
+- ik verwacht dat je tegen volgende week donderdag 01/10/2020 hier al mee begonnen bent, ik zal een tussentijdse evaluatie doen en je tips geven ivm kleuren / font en of je bron bestanden goed genoeg zijn
 
 
 Tips: 
