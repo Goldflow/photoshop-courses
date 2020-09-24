@@ -171,3 +171,25 @@ Om even te illustreren hoe een website gemaakt wordt met Photoshop kunnen jullie
 Je kan ook zien dat de profielfoto in de cirkel a.d.h.v. een clipping mask wordt gemaakt zoals in onze oefening 3.2
 
 ## 8. Oefening lange duur:
+
+Film Poster
+
+Je maakt een originele filmposter in photoshop van nul. 
+
+- alle bestanden / foto's die je gebruikt mogen niet bewerkt zijn.
+- zorg dat je alle brondbestanden blijft behouden. Behoud voor alle afbeeldingen die je gebruikt het originele bestand (ofwel in .psd ofwel apart - behoud voor elk bestand liefst een originele versie in het .psd - PhotoShop bestand)
+- maak gebruik van een leuke kleurencombinatie... zie hoofdstuk 5 in deze les voor tips
+- gebruik een passende font voor het thema van je film, zie deze les, hoofdstuk 2 in deze les voor meer informatie & tips
+- gebruik een Uitknip Masker met ofwel een tekst of een vorm
+- maak gebruik van ofwel de Kloon Stamp / (Snel) Retoucheer Penseel om een bepaald deel van de foto te retoucheren
+- maak op zijn minst een propere, uitgeknipte selectie van een persoon (mag jezelf zijn of iemand anders) of een dier, je mag hierzowel een laagmasker als andere technieken voor gebruiken. Zorg dat deze laag apart blijft
+- geef alle lagen een juiste naam
+- probeer met bestanden te werken met een hoge resolutie
+
+- ik verwacht dat je tegen volgende week donderdag hier al mee begonnen bent, ik zal een tussentijdse evaluatie doen en je tips geven ivm kleuren / font en of je bron bestanden goed genoeg zijn
+
+
+Tips: 
+zie Les2 voor stock photos:
+
+[les 2](https://github.com/Goldflow/photoshop-courses/tree/master/les2)
