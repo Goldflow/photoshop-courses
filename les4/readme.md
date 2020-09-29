@@ -39,33 +39,37 @@ Photoshop heeft een handige functie waarmee je repetitief werk kan automatiseren
 
 Voor deze oefening gaan we het "Spotify Effect" van les 2 automatiseren.
 
+![handelingopnemen](handelingopnemen.gif)
+
 - Maak een nieuw photoshop bestand (1000px op 600px)
 - Voeg de afbeelding kendrick.jpg toe aan het photoshop bestand
 - Zet de afbeelding ongeveer in het midden.
-![Record actions](https://cl.ly/2Z1H0F0b3l3q/Screen%20Recording%202016-12-04%20at%2009.03%20PM.gif)
 - Alle stappen die we vanaf nu volgen kunnen we gaan opnemen om vervolgens te gaan automatiseren (omzetten zwart / wit, contrast verhogen, lagen met opvulkleur toevoegen)
 - Om dit te doen gaan we naar Venster (window) > handelingen (actions)
 - of alternatief: druk op alt + F9
 - Klik vervolgens op nieuwe handeling (new action) maken en geef deze een naam.
 - Klik op record
 
-![Record Actions](https://cl.ly/2X2B1B3X2N3g/Screen%20Recording%202016-12-04%20at%2009.16%20PM.gif)
 
 - Doe nu alle handelingen in de juiste volgorde en zorg ervoor dat je geen overbodige handelingen.
 - Start met de afbeelding om te zetten in het zwart-wit (via aanpassingslaag > black & white)
 - Vervolgens gaan we het contrast verhogen naar 90.
 
-![Record Actions](https://cl.ly/2T0J0g1J2b3r/Screen%20Recording%202016-12-04%20at%2009.21%20PM.gif)
 
 - Maak een nieuwe laag aan en vul deze met de volgende kleur: #fe1467, verander bij opties voor overvloeien (blendingmode) van deze laag naar "multiply".
 - Maak nog een nieuwe laag aan en vul deze met de kleur: #23278a, verander de opties voor overvloeien (blendingmode) van deze laag naar "lighten".
 - Stop de opname
 
-![Record Actions](https://cl.ly/3t0L2H1c151y/Screen%20Recording%202016-12-04%20at%2009.32%20PM.gif)
-
 - Deze handelingen kunnen nu automatisch worden uitgevoerd op een andere afbeelding.
 - Maak een nieuw bestand 1000px op 750px en zet de afbeelding gregory.jpg erin
 - Ga naar actions en selecteer het "spotify effect" en druk op de play toets
+
+Hieronder de links van dezelfde stappen maar in de Engelse versie van Photoshop:
+
+[Step 1](https://cl.ly/2Z1H0F0b3l3q/Screen%20Recording%202016-12-04%20at%2009.03%20PM.gif)
+[Step 2](https://cl.ly/2X2B1B3X2N3g/Screen%20Recording%202016-12-04%20at%2009.16%20PM.gif)
+[Step 3](https://cl.ly/2T0J0g1J2b3r/Screen%20Recording%202016-12-04%20at%2009.21%20PM.gif)
+[Step 4](https://cl.ly/3t0L2H1c151y/Screen%20Recording%202016-12-04%20at%2009.32%20PM.gif)
 
 
 ### 2.2 Bestaande Photoshop handelingen importeren (actions)
