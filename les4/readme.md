@@ -31,9 +31,9 @@ herhalingstips:
 - 
 ![kleur vervanging penseel](kleurvervanging.gif)
 
-## 2. Acties automatiseren
+## 2. Handelingen automatiseren (automate actions)
 
-### 2.1 Zelf Acties opnemen
+### 2.1 Zelf Handelingen opnemen (record actions)
 
 Photoshop heeft een handige functie waarmee je repetitief werk kan automatiseren. Bijvoorbeeld je moet op 100 foto's
 
