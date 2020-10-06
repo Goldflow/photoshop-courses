@@ -1,6 +1,6 @@
 # Photoshop Les 4
 
-## 1. Oefening
+## 1. Verkleuren
 
 - Open muts.jpg
 - Selecteer de blauwe muts (dit doe je best a.d.h.v quick selection tool)
@@ -25,10 +25,11 @@ We kunnen bv. op deze manier het kleur van haar ogen en haar aanpassen.
 - Schilder nu over de pupil (zoals met het penseel)
 
 herhalingstips:
+
 - druk op "H" om met de hand tool je afbeelding te verplaatsen
 - druk op alt + scroll van je muis om in en uit te zoomen (of ctrl + of ctrl -)
 - druk op "B" op snel je huidig penseel te selecteren (dat kan de gewone zijn of in dit geval de kleurvervangingspenseel)
-- 
+ 
 ![kleur vervanging penseel](kleurvervanging.gif)
 
 ## 2. Handelingen automatiseren (automate actions)
@@ -83,10 +84,152 @@ Hieronder de links van dezelfde stappen maar in de Engelse versie van Photoshop:
 - De handeling zou nu beschikbaar moeten zijn via het handelingen paneel (> venster > handelingen of alt+F9)
 - Druk op het play icoontje om de handeling toe te passen
 
-## 3 Herhalingsoefening: Website in Photoshop maken
+
+
+## 2.3 Herhalingsoefening: Website in Photoshop maken
 
 Als oefening gaan we een bestaande website in Photoshop namaken.
 
 Je kan alle bron bestanden vinden in bron bestanden van vandaag;
 
 ![http://swaywater.com/](sway_website.png)
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+---
+
+
+## 3 GIF: Web Animaties in Photoshop maken
+
+### 3.1 GIF Introductie
+
+- Gif staat voor graphics interchange format, dat betrekking heeft op een bestandsformaat dat zowel statische als geanimeerde beelden ondersteunt.
+- Gifs zijn snelle, geluidloze video’s die oneindig afspelen in een loop en die geen afspeelknop hebben.
+- Gif is totaal geen nieuw fenomeen, het is ouder dan het internet en ouder dan de meeste mensen die er nu gebruik van maken.
+- Afgelopen 15 juni vierde de GIF zijn 30-jarige bestaan! Steve Wilhite, die het in 1987 uitvond als ingenieur voor CompuServe, wist zelf niet eens dat hij er een Lifetime Achievement Webby mee zou winnen.
+
+#### Voorbeelden:
+
+![endlessunicorn.gif](endlessunicorn.gif)
+![foldbox.gif](foldbox.gif)
+![endlesscity.gif](endlesscity.gif)
+![abstractloop.gif](abstractloop.gif)
+
+
+
+#### Resources:
+
+- [https://giphy.com/](https://giphy.com/) 
+- [https://www.gifer.com/](https://www.gifer.com/) 
+- je kan natuurlijk op in de meeste zoekmachines zoeken, specifiek voor gifs:
+
+![googlesearchgif.png](googlesearchgif.png)
+
+### 3.2 GIF - Oefening: bal botsen aan de hand van Tween
+
+### Tweening
+
+Engelse uitleg: ([wiki (EN)](https://en.wikipedia.org/wiki/Inbetweening))
+
+Inbetweening of tweening is het proces waarbij een geanimeerde afbeelding wordt voorzien van meerdere afbeeldingen per seconde, waardoor het een vloeiendere beeldkwaliteit krijgt.
+
+Het woord komt oorspronkelijk van het Engelse inbetweening wat zoiets betekent als ertussenstoppen.
+Oefening als GIF (geschreven instructies kan je eronder vinden)
+
+---
+
+### Oefening
+
+Als oefening gaan we een bal laten botsen.
+
+![bal.gif](bal.gif)
+
+
+
+
+
+![gifpositie.gif](gifpositie.gif)
+
+Importeer het bestand football.png (kan je vinden in de bronbestanden van vandaag) of download [hier](football.png)
+
+- Geef alle lagen een relevante naam
+- Maak een pixel laag van de bal als je dat wenst
+- kies Venster > Tijdslijn
+- Kies "Frame Animatie" in de dropdown
+- klik op "Frame Animatie" (het ziet er niet uit als een knop, maar je het is wel degelijk een knop, dus druk op de tekst "Frame Animatie")
+
+![frameanimatieknop.png](frameanimatieknop.png)
+
+- Kies een begin positie voor de bal (bv. links van boven)
+- bij de tijdslijn, klik op "nieuwe frame" dit is hetzelfde icoontje als een nieuwe laag bij het lagen venster dat je al kent (zie screenshot hieronder)
+
+![nieuweframetijdslijn.png](nieuweframetijdslijn.png)
+
+- verzeker je, dat je de 2e frame geselecteerd hebt, en verplaats de bal opnieuw (bv. in het midden vanonder)
+- vervolgens, selecteer je beide frames (hou shift in)
+- en dan druk je op het Tween icoontje (zie hieronder)
+
+![tweentijdslijn.png](tweentijdslijn.png)
+
+- kies vervolgens de opties hieronder:
+- zoals je kan zien, kan je naast positie ook dekking & effecten animeren
+
+![animatieopties.png](animatieopties.png)
+
+- om op te slaan:
+- bestand > exporteren > opslaan voor web (verouderd)
+- zorg dat de resolutie niet te groot is (bv 500x500) anders zal het lang duren om het te exporteren
+![opslaangif.png](opslaangif.png)
+
+#### opdracht:
+Probeer dit nu zelf & naast de positie, probeer ook eens te vinden hoe een effect te animeren (bv blending modes of andere effecten).
+
+### 3.3 GIF - Video tijdslijn
+
+Als we verschillende objecten willen laten bewegen in dezelfde tijd, zal dit moeilijk gaan met de vorige techniek. Om dit te doen, kunnen we gebruik maken van de videotijdslijn (zie het icoontje hieronder om daartoe te komen)
+
+![videotijdslijn.png](videotijdslijn.png)
+
+Deze interface komt al dicht bij hoe After Effects werkt.
+
+Ik toon het hier voor 1 laag. Maar als je met een 2e laag werkt blijft het principe hetzelfde.
+
+Hier kan je vervolgens voor elke layer aparte animaties maken.
+
+De oefening hieronder toont hoe we bovenop een video een animatie met tekst kunnen maken:
+
+![hondjetut.gif](hondjetut.gif)
+
+
+
+### 3.4 GIF - Opdracht - Portfolio
+
+Het kan interessant zijn om de werkjes van photoshop die je hebt gemaakt te gebruiken op je portfolio. Een eindresultaat toont niet altijd al het werk dat je er hebt ingestoken.
+
+Een leuke manier om je werk te tonen is er om een GIF van te maken die toont hoe je werk is opgebouwd.
+
+Hopelijk heb je in de meeste opdrachten telkens de originele lagen bewaard!
+
+- Kies een opdracht die je graag op je toekomstige portfolio zou willen gebruiken
+- Zet alle lagen op "onzichtbaar" (oog icoontje)
+- Kies Venster > Tijdslijn
+- Vervolgens kies je een Frame Animatie
+- Dan klik je op "nieuwe frame" en ga je de onderste laag zichtbaar maken
+- Dan klik je op "nieuwe frame" en ga je de volgende laag zichtbaar maken
+- en je herhaalt deze laatste 2 stappen tot je alle frames zichtbaar hebt gemaakt
+
+- speel met de tijd per frame en op die manier kan je een GIF maken die toont hoe je een fotobewerking hebt opgebouwd
+
+- Doe dit voor op zijn minst 2 opdrachten
+je hoeft hiervoor niet de .PSD bestanden in te dienen. De GIF bestanden zijn voldoende
+
+### 3.5 GIF - Opdracht tegen eind volgende les
+
+- Zoek enkele hoge kwaliteitsafbeelding naar keuze (bv een auto in een straat) waarmee je graag zou willen werken - voor je begint, roep mij bij je en laat me weten waarmee je wil werken
+- knip iets uit en zorg dat de plaats waar je het onderwerp naar keuze hebt uitgeknipt mooi afgewerkt is. Met andere woorden, dat je niet kan zien dat er daar iets stond: we hebben hier verschillende technieken voor gezien, ga eventueel terug naar les 2 of 3
+- vervolgens laat je het onderwerp naar keuze bewegen
+
+#### Extra uitdagingen:
+- probeer uit te zoeken hoe je een perfect loop kan maken;
+dat wil zeggen, er voor zorgen de gebruiker niet kan zien wanneer de animatie begint of eindigt (zie voorbeelden hierboven)
+- probeer op zijn minst een 2e object te laten bewegen
+- gebruik naast positie ook andere animaties (effecten, dekking... etc.)
