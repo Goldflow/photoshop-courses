@@ -98,6 +98,8 @@ Hieronder de links van dezelfde stappen maar in de Engelse versie van Photoshop:
 
 Als oefening gaan we een bestaande website in Photoshop namaken.
 
+We maken de eerste pagina klassikaal. Probeer dan 3 pagina's na te maken zelf met alles wat je tot nu toe hebt geleerd
+
 Je kan alle bron bestanden vinden in bron bestanden van vandaag;
 
 ![http://swaywater.com/](sway_website.png)
