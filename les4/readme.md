@@ -157,7 +157,7 @@ Importeer het bestand football.png (kan je vinden in de bronbestanden van vandaa
 - Kies "Frame Animatie" in de dropdown
 - klik op "Frame Animatie" (het ziet er niet uit als een knop, maar je het is wel degelijk een knop, dus druk op de tekst "Frame Animatie")
 
-![frameanimatieknop.png](frameanimatieknop.png)
+![frameknop.png](frameanimatieknop.png)
 
 - Kies een begin positie voor de bal (bv. links van boven)
 - bij de tijdslijn, klik op "nieuwe frame" dit is hetzelfde icoontje als een nieuwe laag bij het lagen venster dat je al kent (zie screenshot hieronder)
@@ -168,17 +168,17 @@ Importeer het bestand football.png (kan je vinden in de bronbestanden van vandaa
 - vervolgens, selecteer je beide frames (hou shift in)
 - en dan druk je op het Tween icoontje (zie hieronder)
 
-![tweentijdslijn.png](tweentijdslijn.png)
+![tween.png](tween.png)
 
 - kies vervolgens de opties hieronder:
 - zoals je kan zien, kan je naast positie ook dekking & effecten animeren
 
-![animatieopties.png](animatieopties.png)
+![animatieoptie.png](animatieoptie.png)
 
 - om op te slaan:
 - bestand > exporteren > opslaan voor web (verouderd)
 - zorg dat de resolutie niet te groot is (bv 500x500) anders zal het lang duren om het te exporteren
-![opslaangif.png](opslaangif.png)
+![opslaangif.png](opslaan.png)
 
 #### opdracht:
 Probeer dit nu zelf & naast de positie, probeer ook eens te vinden hoe een effect te animeren (bv blending modes of andere effecten).
@@ -187,7 +187,10 @@ Probeer dit nu zelf & naast de positie, probeer ook eens te vinden hoe een effec
 
 Als we verschillende objecten willen laten bewegen in dezelfde tijd, zal dit moeilijk gaan met de vorige techniek. Om dit te doen, kunnen we gebruik maken van de videotijdslijn (zie het icoontje hieronder om daartoe te komen)
 
-![videotijdslijn.png](videotijdslijn.png)
+
+![videotijd.png](videotijd.png)
+
+![videotijd2.png](videotijd2.png)
 
 Deze interface komt al dicht bij hoe After Effects werkt.
 
@@ -195,10 +198,11 @@ Ik toon het hier voor 1 laag. Maar als je met een 2e laag werkt blijft het princ
 
 Hier kan je vervolgens voor elke layer aparte animaties maken.
 
-De oefening hieronder toont hoe we bovenop een video een animatie met tekst kunnen maken:
+De oefening hieronder toont hoe we bovenop een video een animatie met tekst kunnen maken.
+
+Je kan de video vinden in de bron bestanden bij de les ( hondje.mp4 )
 
 ![hondjetut.gif](hondjetut.gif)
-
 
 
 ### 3.4 GIF - Opdracht - Portfolio
