@@ -32,6 +32,14 @@ herhalingstips:
  
 ![kleur vervanging penseel](kleurvervanging.gif)
 
+#### Oefening
+zoek zelf een foto en vervang het kleur bij een kledingstuk en geef de ogen andere kleuren. Je mag ook kiezen om andere delen van de persoon een andere kleur te geven.
+tip:
+- hoge resolutie maakt het makkelijker
+- foto's met personen die kleren hebben die makkelijk te onderscheiden zijn van van de rest zal je werk ook vergemakkelijken
+
+dien deze oefening in & geef die oefening als naam "kleur vervanging"
+
 ## 2. Handelingen automatiseren (automate actions)
 
 ### 2.1 Zelf Handelingen opnemen (record actions)
