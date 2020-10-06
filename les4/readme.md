@@ -195,10 +195,11 @@ Ik toon het hier voor 1 laag. Maar als je met een 2e laag werkt blijft het princ
 
 Hier kan je vervolgens voor elke layer aparte animaties maken.
 
-De oefening hieronder toont hoe we bovenop een video een animatie met tekst kunnen maken:
+De oefening hieronder toont hoe we bovenop een video een animatie met tekst kunnen maken.
+
+Je kan de video vinden in de bron bestanden bij de les ( hondje.mp4 )
 
 ![hondjetut.gif](hondjetut.gif)
-
 
 
 ### 3.4 GIF - Opdracht - Portfolio
