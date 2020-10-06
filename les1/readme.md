@@ -78,20 +78,20 @@ Met Photoshop kan je natuurlijk bestaande photoshop files openen. Een photoshop 
 
 Met photoshop kan je ook andere bestandsformaten openen zoals .jpg, .jpeg, .gif, .png, etc.  
 
-## 3. Layers
+## 3. Lagen
 
-Layers of Lagen zijn in Photoshop een heel belangrijk concept en de meeste Photoshop files bestaan uit een resem aan Layers. De volgorde van de layers spelen ook een belangrijke rol en bepalen het eindresultaat. De bovenste layers zijn het meest zichtbaar en de onderste het minst.
+Layers of Lagen zijn in Photoshop een heel belangrijk concept en de meeste Photoshop files bestaan uit een resem aan lagen. De volgorde van de lagen spelen ook een belangrijke rol en bepalen het eindresultaat. De bovenste lagen zijn het meest zichtbaar en de onderste het minst.
 
-Het layers panel is het venster in Photoshop waar je alle lagen van een Photoshop bestand kan bekijken en bewerken. Het layers panel is normaal standaard zichtbaar beneden in de rechterhoek. Mocht je dit niet zien dan kan je dit panel via de menu > window > layers activeren.
+Het lagen panel is het venster in Photoshop waar je alle lagen van een Photoshop bestand kan bekijken en bewerken. Het lagen panel is normaal standaard zichtbaar beneden in de rechterhoek. Mocht je dit niet zien dan kan je dit panel via de menu > Venster > Lagen activeren.
 
 Mocht je ooit per ongeluk een panel verbergen dan kan je altijd jouw workspace herstellen naar de initiële Photoshop set-up. Dit doe je via window > workspace > reset essentials.
 
 ![Reset Essentials](https://cl.ly/36303k0w0q1U/Image%202016-11-08%20at%206.29.52%20PM.png "Reset Essentials")
 
-### 3.1 Introductie tot layers
+### 3.1 Introductie tot lagen (layers)
 
 Open layers.psd
-In het layerspanel zie je dat het photoshop bestand bestaat uit meerdere lagen. Elke rij is een laag. Elke layer heeft een naam. Zoals al eerder vermeld is de volgorde van de lagen belangrijk.
+In het lagenpaneel zie je dat het photoshop bestand bestaat uit meerdere lagen. Elke rij is een laag. Elke laag heeft een naam. Zoals al eerder vermeld is de volgorde van de lagen belangrijk.
 Je kan de volgorde van de laag aanpassen door deze naar boven of onder te slepen.
 
 ![Layer Order](https://cl.ly/390m1K0v3v2N/Screen%20Recording%202016-11-11%20at%2010.10%20AM.gif "Layer Order")
@@ -101,17 +101,17 @@ Je kan de volgorde van de laag aanpassen door deze naar boven of onder te slepen
 Om een nieuwe laag te maken:
 In photoshop zijn er altijd verschillende manieren om iets te doen.
 Bijvoorbeeld een nieuwe laag maken kan je via het icoontje doen.
-Je kan dit ook doen via de menu > layer > new
+Je kan dit ook doen via de menu > Lagen > Nieuw
 Je kan deze handeling ook doen via de volgende shortcut
 - op een mac shift + cmd + n
 - op eeen pc shift + ctrl + n
 
 ![Make New Layer](https://cl.ly/2U1J403o1R2d/Screen%20Recording%202016-11-11%20at%2010.07%20AM.gif "Make New Layer")
 
-Je zal zien dat de layers automatisch een naam krijgen: Layer 1, Layer 2, etc.
+Je zal zien dat de lagen automatisch een naam krijgen: laag 1, laag 2, etc.
 Je kan de naam van de laag veranderen. Dit kan je doen door te dubbelklikken op de naam van de laag.
 
-![Rename Layers](https://cl.ly/2Y2u0a2D312L/Screen%20Recording%202016-11-11%20at%2010.13%20AM.gif "Group Layers")
+![Rename Layers](https://cl.ly/2Y2u0a2D312L/Screen%20Recording%202016-11-11%20at%2010.13%20AM.gif "Groepeer Lagen")
 
 ### 3.3 Lagen groeperen
 
@@ -132,7 +132,7 @@ Dit doe je door de laag te selecteren + rechtermuisknop, vervolgens geef je de l
 Lagen / Groepen kan je uiteraard ook verwijderen.
 Dit kan je doen door de laag te selecteren en op backspace / delete toets te drukken.
 Je kan dit ook doen door de laag naar het vuilbak icoontje te slepen.
-Of door de layer te selecteren, rechtermuisknop, delete layer.
+Of door de laag te selecteren, rechtermuisknop, verwijder laag.
 
 ![Delete Layers](https://cl.ly/2R0H3u2O1w3M/Screen%20Recording%202016-11-11%20at%2010.27%20AM.gif "Delete Layers")
 
@@ -148,7 +148,7 @@ Dit doe je via de menu > window > history.
 ### 3.5 Lagen verbergen
 
 Lagen kan je ook verbergen. Dit doe je door het oog icoontje uit te vinken.
-De laag is nu niet meer zichtbaar. Dit kan handig zijn als je even wil zien hoe je file eruit ziet zonder deze layer zonder daarvoor die laag te verwijderen.
+De laag is nu niet meer zichtbaar. Dit kan handig zijn als je even wil zien hoe je file eruit ziet zonder deze laag zonder daarvoor die laag te verwijderen.
 
 ![Lagen verbergen](https://cl.ly/3H0S2o0T2T17/Screen%20Recording%202016-11-11%20at%2004.27%20PM.gif "Lagen verbergen")
 
@@ -171,30 +171,30 @@ Dit doe je op de volgende manier:
 
 :zap: TIP: Je kan gemakkelijk de verschillende blending modes testen via de shortcut shift + plus teken op een mac en ctrl + plus teken op een windows.
 
-## 5 Layer Masks
+## 5 Laag Maskers (layer masks)
 
-### 5.1 Wat zijn Layer Masks
+### 5.1 Wat zijn Laag Maskers
 
-Layer masks worden gebruikt om bepaalde delen van een foto te verbergen / weer te geven.
+Laag Maskers worden gebruikt om bepaalde delen van een foto te verbergen / weer te geven.
 
-Er zijn 2 soorten layer Masks:
+Er zijn 2 soorten Laag Maskers:
 1. Pixel Masks
 2. Vector Masks
 
 Er kan ook een combinatie worden gemaakt van pixel masks en vector Masks (dit is meestal het geval)
 
-### 5.2 Hoe maak je een layer Mask?
+### 5.2 Hoe maak je een Laag Masker?
 
 - Open cactus.jpg
-- Maak de afbeelding bewerkbaar door op het slotje te klikken in de layer panel
+- Maak de afbeelding bewerkbaar door op het slotje te klikken in de Lagen panel
 - Selecteer de "quick selection tool" in het gereedschappen panel
 - Maak de selectie door met de muis over het gewenste gebied te slepen, om extra delen toe te voegen aan jouw selectie maak je gebruik van de "shift-toets" om delen van je selectie te deselecteren maak je gebruik van de "alt-toets".
 
 ![Create a layer mask part 1](https://cl.ly/2N3e160p2g1P/Screen%20Recording%202016-10-18%20at%2010.17%20PM.gif "Layer Masks")
 
-- Eenmaal je tevreden bent met de gemaakte selectie, klik je op het icoontje "add layer mask" in de layer panel
+- Eenmaal je tevreden bent met de gemaakte selectie, klik je op het icoontje Laag Masker toevoegen("add layer mask") in de lagen panel
 - Nu zie je dat de achtergrond verborgen is en dat je een transparante achtergrond hebt.
-- Ja kan nu bijvoorbeeld een andere achtergrondkleur gebruiken door een nieuwe layer te maken en deze te vullen met een kleur.
+- Ja kan nu bijvoorbeeld een andere achtergrondkleur gebruiken door een nieuwe laag te maken en deze te vullen met een kleur.
 
 ![Create a layer mask part 2](https://cl.ly/12271f1e0x1B/Screen%20Recording%202016-10-18%20at%2010.29%20PM.gif "Layer Masks")
 
@@ -227,7 +227,7 @@ Er kan ook een combinatie worden gemaakt van pixel masks en vector Masks (dit is
 
 ![Create a vector mask part 3](https://cl.ly/0c2S2L2m1P2e/Screen%20Recording%202016-10-23%20at%2012.34%20PM.gif "Create a vector mask part 3")
 
-- Om de vector mask te maken ga je via de menu naar layer > vector mask > current path
+- Om de vector mask te maken ga je via de menu naar Lagen > Vector Masker > current path
 
 ![Create a vector mask part 4](https://cl.ly/1U2o0q1Z3s1v/Screen%20Recording%202016-10-23%20at%2012.41%20PM.gif "Create a vector mask part 4")
 
@@ -243,13 +243,13 @@ Door de vierkantjes te verslepen of de beziers (cirkels) aan te passen.
 
 ![Create a gradient mask part 1](https://cl.ly/3z1v1s29131C/Screen%20Recording%202016-10-23%20at%2012.58%20PM.gif "Create a gradient mask part 1")
 
-- Plaats de afbeeldingen plant1.jpeg en plant2.jpeg in de file. Elk in een apparte layer.
+- Plaats de afbeeldingen plant1.jpeg en plant2.jpeg in de file. Elk in een aparte laag.
 
 ![Create a gradient mask part 2](https://cl.ly/3C3T2Q2t1y2M/Screen%20Recording%202016-10-23%20at%2001.02%20PM.gif "Create a gradient mask part 2")
 
 ![Create a gradient mask part 3](https://cl.ly/1m0A231a140t/Screen%20Recording%202016-10-23%20at%2001.14%20PM.gif "Create a gradient mask part 3")
 
-- Maak een vector mask door op het icoontje te klikken in de layer panel.
+- Maak een vector mask door op het icoontje te klikken in de lagen panel.
 - Selecteer vervolgens de gradient tool of via de shortcut "g", selecteer een zwart naar witte gradient in de optiebalk vanboven en selecteer het gebied dat je zichtbaar wil maken.
 
 ![Create a gradient mask part 4](https://cl.ly/202n2Z2w3Q2Q/Screen%20Recording%202016-10-23%20at%2001.22%20PM.gif "Create a gradient mask part 4")
@@ -266,10 +266,10 @@ Er zijn 2 Soorten gradiënten:
 
 ## :muscle: 6. Oefening
 
-Bij deze oefening brengen we alles samen van wat we tot nu toe hebben geleerd (layer, layer masks, quick selection tool en blending modes).
+Bij deze oefening brengen we alles samen van wat we tot nu toe hebben geleerd (laag, lagen masker, quick selection tool en blending modes).
 
 - Open portrait.jpg
-- Duplicate de background layer (selecteer laag, rechtermuisknop, duplicate layer)
+- Duplicate de achtergrond laag  (selecteer laag, rechtermuisknop, dupliceer laag)
 
 ![Oefening Les 1](https://cl.ly/3H441U3U2K2e/Screen%20Recording%202016-11-13%20at%2006.36%20PM.gif "Oefening Les 1")
 
@@ -280,7 +280,7 @@ of via de shortcut cmd + shift + i
 
 ![Oefening Les 1](https://cl.ly/411o0H0F2F2w/Screen%20Recording%202016-11-13%20at%2007.41%20PM.gif "Oefening Les 1")
 
-- Maak een nieuwe layer mask op basis van de selectie
+- Maak een nieuwe laag masker op basis van de selectie
 - Voeg mountains.jpeg toe aan het bestand (via menu > file > place embedded)
 
 ![Oefening Les 1](https://cl.ly/0m13283m2a2K/Screen%20Recording%202016-11-13%20at%2007.53%20PM.gif "Oefening Les 1")
