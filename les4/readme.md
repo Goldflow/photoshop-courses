@@ -157,7 +157,7 @@ Importeer het bestand football.png (kan je vinden in de bronbestanden van vandaa
 - Kies "Frame Animatie" in de dropdown
 - klik op "Frame Animatie" (het ziet er niet uit als een knop, maar je het is wel degelijk een knop, dus druk op de tekst "Frame Animatie")
 
-![frameknop.png](frameanimatieknop.png)
+![frameknop.png](frameknop.png)
 
 - Kies een begin positie voor de bal (bv. links van boven)
 - bij de tijdslijn, klik op "nieuwe frame" dit is hetzelfde icoontje als een nieuwe laag bij het lagen venster dat je al kent (zie screenshot hieronder)
@@ -226,14 +226,20 @@ Hopelijk heb je in de meeste opdrachten telkens de originele lagen bewaard!
 - Doe dit voor op zijn minst 2 opdrachten
 je hoeft hiervoor niet de .PSD bestanden in te dienen. De GIF bestanden zijn voldoende
 
-### 3.5 GIF - Opdracht tegen eind volgende les
+### 3.5 GIF - Opdracht tegen einde les
 
-- Zoek enkele hoge kwaliteitsafbeelding naar keuze (bv een auto in een straat) waarmee je graag zou willen werken - voor je begint, roep mij bij je en laat me weten waarmee je wil werken
+- Zoek foto naar keuze (bv een auto in een straat) waarmee je graag zou willen werken - voor je begint, roep mij bij je en laat me weten waarmee je wil werken
+- zorg dat je het origineel blijft behouden
 - knip iets uit en zorg dat de plaats waar je het onderwerp naar keuze hebt uitgeknipt mooi afgewerkt is. Met andere woorden, dat je niet kan zien dat er daar iets stond: we hebben hier verschillende technieken voor gezien, ga eventueel terug naar les 2 of 3
 - vervolgens laat je het onderwerp naar keuze bewegen
 
 #### Extra uitdagingen:
-- probeer uit te zoeken hoe je een perfect loop kan maken;
+- probeer uit te zoeken hoe je een perfecte loop kan maken;
 dat wil zeggen, er voor zorgen de gebruiker niet kan zien wanneer de animatie begint of eindigt (zie voorbeelden hierboven)
-- probeer op zijn minst een 2e object te laten bewegen
+- probeer op zijn minst een 2e of 3 objecten te laten bewegen
 - gebruik naast positie ook andere animaties (effecten, dekking... etc.)
+- denk aan licht / contract / saturatie
+
+#### Voor de mensen die snel klaar zijn met het bovenstaande:
+- laat eerst zien wat je hebt gemaakt
+- probeer dezelfde opdracht uit te voeren maar met een nieuwe foto en in After Effects (of opnieuw Photoshop als After Effects niet beschikbaar is)
