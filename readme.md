@@ -1,4 +1,4 @@
-# Cursus Digitale Beeldverwerking 2020-2021
+# Digitale Beeldverwerking 2020-2021
 
 - [Les 1](https://github.com/Goldflow/photoshop-courses/tree/master/les1) ( 17/09/2020 )
 - [Les 2](https://github.com/Goldflow/photoshop-courses/tree/master/les2) ( 22/09/2020 )
