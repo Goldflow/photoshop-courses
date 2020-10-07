@@ -1,42 +1,8 @@
 # Photoshop
 
-- [Les 1](https://github.com/brampauwelyn/photoshop-courses/tree/master/les1)
-  - Inleiding
-    - Photoshop vs Illustrator, wat is nu het verschil
-    - Alternatieven voor Photoshop
-  - Aan de slag met Photoshop
-    - Nieuwe file maken
-    - Bestanden in Photoshop openen
-  - Layers / Lagen
-  - Blending Modes
-  - Layer Masks
-    - Wat zijn Layer Masks
-    - Hoe Maak je een Layer Mask
-    - Vector Masks
-    - Maks gradiants
-  - Oefening
-- [Les 2](https://github.com/brampauwelyn/photoshop-courses/tree/master/les2)
-  - Herhalingsoefeningen
-    - Spotify Effect
-    - Gradient Effect
-  - Slicing
-  - Tekst
-    - Lettertypes installeren
-    - Tekst op een pad
-    - Tekst in een pad
-  - De Shape Tool
-- [Les 3](https://github.com/brampauwelyn/photoshop-courses/tree/master/les3)
-  - Oefening
-  - Ressources voor Typografie
-  - Content Aware Tool
-    - Een element uit een foto verwijderen
-    - Spot Healing Brush Tool
-    - Content aware move tool
-  - Clipping Masks
-    - Clipping masks met Tekst
-    - Clipping masks met vormen
-  - Pen Tool
-    - Oefening op de pen tool
-  - Colors / Kleuren in Photoshop
-  - Ressources / Inspiratie voor (web) Designers en Developers
-  - Introductie websites maken met Photoshop
+- [Les 1](https://github.com/Goldflow/photoshop-courses/tree/master/les1) ( 17/09/2020 )
+- [Les 2](https://github.com/Goldflow/photoshop-courses/tree/master/les2) ( 22/09/2020 )
+- [Les 3](https://github.com/Goldflow/photoshop-courses/tree/master/les3) ( 24/09/2020 )
+- [Les 4](https://github.com/Goldflow/photoshop-courses/tree/master/les4) ( 06/10/2020 )
+- [Les 5](https://github.com/Goldflow/photoshop-courses/tree/master/les5) ( 08/10/2020 )
+
