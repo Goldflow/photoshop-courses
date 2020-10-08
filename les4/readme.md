@@ -1,4 +1,4 @@
-# Photoshop Les 4
+﻿# Photoshop Les 4
 
 ## 1. Verkleuren
 
@@ -235,6 +235,8 @@ Hopelijk heb je in de meeste opdrachten telkens de originele lagen bewaard!
 
 - Doe dit voor op zijn minst 2 opdrachten
 je hoeft hiervoor niet de .PSD bestanden in te dienen. De GIF bestanden zijn voldoende
+
+![portfolio.gif](portfolio.gif)
 
 ### 3.5 GIF - Opdracht tegen einde les
 
