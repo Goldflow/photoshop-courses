@@ -27,13 +27,17 @@ Dit kan heel handig zijn om nieuwe werktuigen / tools te ontdekken of een snelle
 
 ![](selflearn.gif)
 
-#### 1.2.1 Algemene Photoshop lessen
+#### 1.2.2 Algemene Photoshop lessen
 
 Daarnaast is het ook mogelijk om in Photoshop lessen te volgen over zeer uiteenlopende onderwerpen.
 
 Menu > Venster > Leren
 
 ![](leren.gif)
+
+#### 1.2.3 Oefeningen
+
+Jullie gaan nu enkele van deze lessen doen.
 
 ## 2. Herhaling
 
@@ -138,8 +142,36 @@ We hebben deze tool gebruikt in [les 4](https://github.com/goldflow/photoshop-co
 
 ### 2.6.4 De Mixerpenseel (mixer brush) tool
 
-## 2.9 Kloonstempel (Clone Stamp Tool)
+#### 2.9 Kloonstempel (Clone Stamp Tool)
 
-## 2.9.1 Clone Stamp Tool
+#### 2.9.1 Clone Stamp Tool
 
 De clone stamp tool kan gebruikt worden om "onvolmaaktheden" uit een foto te halen. Deze tool is een beetje vergelijkbaar met de "Healing Brush Tool". Alleen moet je hier zelf een referentiepunt aangeven (dit doe je met de alt-toets).
+
+
+---
+
+## 3 Animal Things
+
+De instagram gebruiker "animalinthings" maakt graag Photoshop werkjes waarbij hij een dier in een object verwerkt.
+
+We gaan dit nu ook doen. Neem je tijd om na te denken hoe je zoiets zou doen en zorg ervoor dat de overgang van "ding" naar "dier" realistisch is.
+
+Kijk naar de voorbeelden als inspiratie. Maak gerust dezelfde idëeen aan maar gebruik nieuwe bronbestanden (en hou de originele bij)
+
+![](animalinthings/aubergine-orca.jpg)
+![](animalinthings/banana-sheep.jpg)
+![](animalinthings/bread-dog.jpg)
+![](animalinthings/cat-burger.jpg)
+![](animalinthings/frog.jpg)
+![](animalinthings/pickle-lizard.jpg)
+![](animalinthings/tiger-ice-cream.jpg)
+![](animalinthings/hot-dog.jpg)
+
+[](food/hot-dog.jpg)
+
+## 4 Onverstoord Schaken
+
+## 5 Relax zittend op..
+
+## 6 Doe die mensen weg
