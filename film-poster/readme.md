@@ -58,3 +58,9 @@ Patroon over de letters zetten
 Tekst maken uit een achtergrond, door het laag masker te verplaatsen naar de achtergrond
 
 ![](achtergrondletter.gif)
+
+
+Tekst kopieren en andere kleur geven (bv wit)
+dan die achter de eerste tekst zitten en transformeren (vergroten, of verplaatsen) om zo leuke effectjes te krijgen
+
+![](dubbelletter.gif)
