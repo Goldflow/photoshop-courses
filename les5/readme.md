@@ -1,8 +1,43 @@
 # Photoshop Les 5
 
-## 1. Zelfredzaamheid (self reliance)
+## 1. Reken op jezelf! (self reliance)
 
-In deze module, maar ook in de hele opleiding web design is vindingrijkheid en op jezelf kunnen rekenen heel belangrijk. Elke web developer googlet nog elke dag. Je moet durven toegeven aan jezelf dat je het niet weet, maar dat is niet erg, er zijn miljoenen mensen die hetzelfde probleem hebben en ze hebben de oplossing op het internet gedeeld. Je moet dus leren die oplossingen vinden, begrijpen en uitvoeren.
+### 1.1 Zelfredzaamheid
+
+In deze module, maar ook in de hele opleiding web design is vindingrijkheid en op jezelf kunnen rekenen heel belangrijk. Elke web developer googlet nog elke dag.
+Parate kennis is altijd handig maar bijna nog belangrijker dan de lessen (voor de meeste web design gerelateerde vakken), is leren documentatie opzoeken en die begrijpen belangrijker dan de handelingen van buiten kennen.
+
+Bepaalde handelingen die je uitvoert, ga je vanzelf van buiten kennen na het veel te gebruiken, maar voor andere handelingen is het normaal dat je dat niet meer weet, en dat is niet erg. Maar als je al weet dat iets mogelijk is (bijvoorbeeld met de retoucheer tool), of je weet dat we het in de klas hebben gezien, probeer die informatie dan terug op te zoeken!
+
+Vermoedelijk heb je het intussen al meegemaakt dat je heel lang iets probeert maar dat je eigenlijk niet goed weet hoe, maar toch modder je maar aan. Je moet durven toegeven aan jezelf dat je het niet weet en dan effectief proberen op te zoeken hoe het te doen.
+
+Zie online zoekmachines kan je heel veel informatie vinden als je weet hoe je het moet zoeken. Soms is het gewoon al een goed idee om gewoon je vraag in te typen in de zoekmachine (bv google). Met de vraag, "hoe verklein ik een cirkel in photoshop" kom je zeker al resultaten tegen.
+
+Je moet dus leren je problemen te identificeren en door dan de juiste vraag te stellen kan je tot het juiste antwoord komen.
+
+Dit is enkel waardoor je met tijd en ervaring beter in wordt.
+
+### 1.2 Photoshop bied zelf ook heel wat documentatie aan
+
+#### 1.2.1 Lessen bij verschilende tools
+Voor heel wat verschillende werktuigen / tools (niet voor allemaal) in Photoshop kan je lessen volgen in Photoshop zelf!
+Dit doe je door met je muis over het icoontje te hangen en enkele seconden te wachten, vervolgens klik je op "Leer het volgende"
+
+Dit kan heel handig zijn om nieuwe werktuigen / tools te ontdekken of een snelle opfrissing te doen.
+
+![](selflearn.gif)
+
+#### 1.2.2 Algemene Photoshop lessen
+
+Daarnaast is het ook mogelijk om in Photoshop lessen te volgen over zeer uiteenlopende onderwerpen.
+
+Menu > Venster > Leren
+
+![](leren.gif)
+
+#### 1.2.3 Oefeningen
+
+Jullie gaan nu enkele van deze lessen doen.
 
 ## 2. Herhaling
 
@@ -10,7 +45,7 @@ In deze module, maar ook in de hele opleiding web design is vindingrijkheid en o
 De verplaatsings tool vind je helemaal vanboven in het gereedschapspanel (of je kan deze oproepen via de snelkoppeling (shortcut) "v").
 Deze tool wordt gebruikt om elementen te verplaatsen.
 
-![Move tool](verplaatsings tool.gif)
+![Move tool](movetool.gif)
 
 Een handige functie van de verplaatsings tool is de automatisch selecteren ("auto-select") functie.
 Als je dit vinkje aanvinkt dan selecteer je automatisch de juiste laag en moet je niet eerst de juiste laag gaan selecteren in het lagenpanel vooraleer je deze kan bewegen.
@@ -33,8 +68,6 @@ Je kan dit ook doen tegenover een huidige selectie
 
 De Lasso tool wordt gebruikt om snel selecties te maken.
 De lasso tool is een openklapbaar menu en bestaat uit 3 verschillende soorten lasso tools.
-
-![Lasso Tool](https://cl.ly/3S1H0f2O2S21/Image%202016-12-19%20at%209.14.38%20PM.png "lasso tool")
 
 #### 2.2.1 De lasso tool
 
@@ -109,8 +142,36 @@ We hebben deze tool gebruikt in [les 4](https://github.com/goldflow/photoshop-co
 
 ### 2.6.4 De Mixerpenseel (mixer brush) tool
 
-## 2.9 Kloonstempel (Clone Stamp Tool)
+## 2.7 Kloonstempel (Clone Stamp Tool)
 
-## 2.9.1 Clone Stamp Tool
+### 2.7.1 Clone Stamp Tool
 
 De clone stamp tool kan gebruikt worden om "onvolmaaktheden" uit een foto te halen. Deze tool is een beetje vergelijkbaar met de "Healing Brush Tool". Alleen moet je hier zelf een referentiepunt aangeven (dit doe je met de alt-toets).
+
+
+---
+
+## 3 Animal Things
+
+De instagram gebruiker "animalinthings" maakt graag Photoshop werkjes waarbij hij een dier in een object verwerkt.
+
+We gaan dit nu ook doen. Neem je tijd om na te denken hoe je zoiets zou doen en zorg ervoor dat de overgang van "ding" naar "dier" realistisch is.
+
+Kijk naar de voorbeelden als inspiratie. Maak gerust dezelfde idëeen aan maar gebruik nieuwe bronbestanden (en hou de originele bij)
+
+![](animalinthings/aubergine-orca.jpg)
+![](animalinthings/banana-sheep.jpg)
+![](animalinthings/bread-dog.jpg)
+![](animalinthings/cat-burger.jpg)
+![](animalinthings/frog.jpg)
+![](animalinthings/pickle-lizard.jpg)
+![](animalinthings/tiger-ice-cream.jpg)
+![](animalinthings/hot-dog.jpg)
+
+[](food/hot-dog.jpg)
+
+## 4 Onverstoord Schaken
+
+## 5 Relax zittend op..
+
+## 6 Doe die mensen weg
