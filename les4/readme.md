@@ -255,3 +255,7 @@ dat wil zeggen, er voor zorgen de gebruiker niet kan zien wanneer de animatie be
 #### Voor de mensen die snel klaar zijn met het bovenstaande:
 - laat eerst zien wat je hebt gemaakt
 - probeer dezelfde opdracht uit te voeren maar met een nieuwe foto en in After Effects (of opnieuw Photoshop als After Effects niet beschikbaar is)
+
+voorbeeld:
+
+![bewegendbeeld.gif](bewegendbeeld.gif)
