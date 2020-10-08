@@ -23,8 +23,38 @@ NOG MAALS:
 - als ik de originele, onbewerkte foto's niet kan zien, is deze opdracht sowieso niet geslaagd en ik verwacht er minstens 4
 
 
-Tips: 
+## Tips voor foto's: 
 zie Les2 voor stock photos:
 
 [les 2](https://github.com/Goldflow/photoshop-courses/tree/master/les2)
 
+je mag natuurlijk ook gewoon op Google, Bing of Yahoo zoeken, zorg gewoon dat ze van een hoge resolutie zijn!
+
+## Achtergrond / Afbeelding aanpassen nadat je er iets hebt uitgeknipt:
+
+[Inhoud bewaren tool](https://github.com/Goldflow/photoshop-courses/blob/master/les3/readme.md#3-inhoud-bewaren-tool---content-aware) 
+Dit was de oefening waar we de bloem verwijderden uit achtergrond
+
+[Retoucheren](https://github.com/Goldflow/photoshop-courses/blob/master/les3/readme.md#32-snel-retoucheer-penseel-spot-healing-brush-tool)
+
+
+
+## Lettertype / Typografie tips
+
+Gebruik ofwel een eigen effect, of op zijn minst een van de volgende technieken:
+
+Een lijn rond de letters brengen:
+
+![](lijnletter.gif)
+
+Je tekst relief (3D effect) geven:
+
+![](reliefletter.gif)
+
+Patroon over de letters zetten
+
+![](patroonletter.gif)
+
+Tekst maken uit een achtergrond, door het laag masker te verplaatsen naar de achtergrond
+
+![](achtergrondletter.gif)
