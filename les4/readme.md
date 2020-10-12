@@ -252,9 +252,9 @@ dat wil zeggen, er voor zorgen de gebruiker niet kan zien wanneer de animatie be
 - gebruik naast positie ook andere animaties (effecten, dekking... etc.)
 - denk aan licht / contract / saturatie
 
-#### Voor de mensen die snel klaar zijn met het bovenstaande:
-- laat eerst zien wat je hebt gemaakt
-- probeer dezelfde opdracht uit te voeren maar met een nieuwe foto en in After Effects (of opnieuw Photoshop als After Effects niet beschikbaar is)
+#### Hier link naar de les waar we geleerd hebben een object uit de achtergrond te krijgen:
+- ()[https://github.com/Goldflow/photoshop-courses/tree/master/les3#31-een-element-uit-een-foto-verwijderen ]
+- ()[https://github.com/Goldflow/photoshop-courses/tree/master/les3#32-snel-retoucheer-penseel-spot-healing-brush-tool)
 
 voorbeeld:
 
