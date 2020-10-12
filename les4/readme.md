@@ -253,8 +253,8 @@ dat wil zeggen, er voor zorgen de gebruiker niet kan zien wanneer de animatie be
 - denk aan licht / contract / saturatie
 
 #### Hier link naar de les waar we geleerd hebben een object uit de achtergrond te krijgen:
-- ()[https://github.com/Goldflow/photoshop-courses/tree/master/les3#31-een-element-uit-een-foto-verwijderen ]
-- ()[https://github.com/Goldflow/photoshop-courses/tree/master/les3#32-snel-retoucheer-penseel-spot-healing-brush-tool)
+- https://github.com/Goldflow/photoshop-courses/tree/master/les3#31-een-element-uit-een-foto-verwijderen
+- https://github.com/Goldflow/photoshop-courses/tree/master/les3#32-snel-retoucheer-penseel-spot-healing-brush-tool
 
 voorbeeld:
 
