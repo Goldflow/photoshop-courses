@@ -215,7 +215,7 @@ Je kan de video vinden in de bron bestanden bij de les ( hondje.mp4 )
 ![hondjetut.gif](hondjetut.gif)
 
 
-### 3.4 GIF - Opdracht - Portfolio
+### 3.4 GIF - Opdracht - Portfolio x 2
 
 Het kan interessant zijn om de werkjes van photoshop die je hebt gemaakt te gebruiken op je portfolio. Een eindresultaat toont niet altijd al het werk dat je er hebt ingestoken.
 
@@ -238,7 +238,7 @@ je hoeft hiervoor niet de .PSD bestanden in te dienen. De GIF bestanden zijn vol
 
 ![portfolio.gif](portfolio.gif)
 
-### 3.5 GIF - Opdracht tegen einde les
+### 3.5 GIF - Opdracht Bewegend Beeld - tegen einde les
 
 - Zoek foto naar keuze (bv een auto in een straat) waarmee je graag zou willen werken - voor je begint, roep mij bij je en laat me weten waarmee je wil werken
 - zorg dat je het origineel blijft behouden
