@@ -163,9 +163,11 @@ Voor deze les moet je naast deze opdracht, ook de volgende 2 opdrachten indienen
 
 Gebruik hiervoor de aangeleerde technieken die we in de vorige lessen hebben gezien. 
 
-Scroll naar beneden om de details van deze opdrachten te zien.
+Scroll naar beneden om de details van deze opdrachten te zien. Deze opdrachten zijn redelijk geavanceerd en als je die op een goeie manier wil uitvoeren ga je sowieso bepaalde technieken moeten uitvoeren die we nog niet in de les hebben gezien.
 
-**Ik wil ook dat je op zoek gaat naar een techniek die je in de les nog niet hebt gezien maar hebt gebruikt bij je opdracht en daarvan een gif animatie maakt.**
+**Voor deze opdracht wil ik dat je op zoek gaat naar een techniek die je in de les nog niet hebt gezien maar gebruikt bij 1 van de 2 opdrachten en daarvan een gif animatie maakt.**
+
+Hieronder vind je meer informatie hoe je die gif animatie kan maken.
 
 ---
 
