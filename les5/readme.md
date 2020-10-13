@@ -165,13 +165,22 @@ Gebruik hiervoor de aangeleerde technieken die we in de vorige lessen hebben gez
 
 Scroll naar beneden om de details van deze opdrachten te zien. Deze opdrachten zijn redelijk geavanceerd en als je die op een goeie manier wil uitvoeren ga je sowieso bepaalde technieken moeten uitvoeren die we nog niet in de les hebben gezien.
 
-**Voor deze opdracht wil ik dat je op zoek gaat naar een techniek die je in de les nog niet hebt gezien maar gebruikt bij 1 van de 2 opdrachten en daarvan een gif animatie maakt.**
+**Voor deze opdracht wil ik dat je op zoek gaat naar een techniek die je nog niet hebt gebruikt in de les maar gebruikt hebt bij 1 van de 2 opdrachten en daarvan een gif animatie maakt.**
+
+Vereisten:
+- dien 2 zo'n verschillende instructie gifs in
+- er is een duidelijk begin en eind resultaat
+- beeeeg niet te snel met de muis
+- de gif bevat op zijn minst 3 verschillende handelingen
+- vermeld bij commentaar/beschrijving bij het indienen eventuele tutorials of website eaar je die handelingen hebt gevonden
 
 Hieronder vind je meer informatie hoe je die gif animatie kan maken.
 
 ---
 
 **Upload deze gif in de uploadzone die de naam "Instructie Gif" bevat**
+
+Volgende week bekijken we de resultaten klassikaal.
 
 ### 3.3 Hoe een gif op te nemen met ScreenToGif
 
