@@ -35,10 +35,6 @@ Menu > Venster > Leren
 
 ![](leren.gif)
 
-#### 1.2.3 Oefeningen
-
-Jullie gaan nu enkele van deze lessen doen.
-
 ## 2. Herhaling
 
 ### 2.1 (Verplaatsen) Movetool
@@ -148,16 +144,53 @@ We hebben deze tool gebruikt in [les 4](https://github.com/goldflow/photoshop-co
 
 De clone stamp tool kan gebruikt worden om "onvolmaaktheden" uit een foto te halen. Deze tool is een beetje vergelijkbaar met de "Healing Brush Tool". Alleen moet je hier zelf een referentiepunt aangeven (dit doe je met de alt-toets).
 
+---
+
+## 3 OPDRACHT: Instructie Gif
+
+### 3.1 Introductie
+
+In het volgende hoofdstuk zie je herhalingen van technieken die wel al meerdere keren hebben gezien. 
+
+Wat ik nu zal vragen is een oefening op het leren uitvoeren van instructies. Het is belangrijk in IT in het algemeen maar zeker als toekomstige web designers dat jullie leren documentatie en instructies online op te zoeken en op te volgen.
+
+### 3.2 Opdracht omschrijving
+
+Voor deze les moet je naast deze opdracht, ook de volgende 2 opdrachten indienen (hoofdstuk 4 & 5)
+
+- 4. OPDRACHT: Animal Things
+- 5. OPDRACHT: Onverstoord Schaken
+
+Gebruik hiervoor de aangeleerde technieken die we in de vorige lessen hebben gezien. 
+
+Scroll naar beneden om de details van deze opdrachten te zien.
+
+**Ik wil ook dat je op zoek gaat naar een techniek die je in de les nog niet hebt gezien maar hebt gebruikt bij je opdracht en daarvan een gif animatie maakt.**
 
 ---
 
-## 3 Animal Things
+**Upload deze gif in de uploadzone die de naam "Instructie Gif" bevat**
+
+### 3.3 Hoe een gif op te nemen met ScreenToGif
+
+Download de applicatie ScreenToGif en neem 1 photoshop bewerking op, die gebruikt hebt bij 1 van de 2 bovenstaande opdrachten (4 en 5)
+
+![](instructions/screentogifdownload.PNG)
+
+
+![](instructions/screentogif.gif)
+
+---
+
+## 4 OPDRACHT: Animal Things
 
 De instagram gebruiker "animalinthings" maakt graag Photoshop werkjes waarbij hij een dier in een object verwerkt.
 
 We gaan dit nu ook doen. Neem je tijd om na te denken hoe je zoiets zou doen en zorg ervoor dat de overgang van "ding" naar "dier" realistisch is.
 
 Kijk naar de voorbeelden als inspiratie. Maak gerust dezelfde idëeen aan maar gebruik nieuwe bronbestanden (en hou de originele bij)
+
+**Upload deze oefening in het relevante uploadzone (naam zal Animal Things bevatten)**
 
 ![](animalinthings/aubergine-orca.jpg)
 ![](animalinthings/banana-sheep.jpg)
@@ -168,10 +201,64 @@ Kijk naar de voorbeelden als inspiratie. Maak gerust dezelfde idëeen aan maar g
 ![](animalinthings/tiger-ice-cream.jpg)
 ![](animalinthings/hot-dog.jpg)
 
-[](food/hot-dog.jpg)
 
-## 4 Onverstoord Schaken
+## 5 OPDRACHT: Onverstoord Schaken
 
-## 5 Relax zittend op..
+Voor deze opdracht vraag ik dat je aantoont dat hun concentratie niet gebroken kan worden door afleidingen / gebeurtenissen of dat deze kalme situatie op het punt staat te veranderen. Ik wil dat je ze uitknipt en in een nieuwe situatie zet die er realistisch uitziet. Laat je verbeelding de vrije loop. 
 
-## 6 Doe die mensen weg
+**Upload deze oefening in het relevante uploadzone (naam zal Onverstoord Schaken bevatten)**
+
+![](chess-park-focus/chess_park.jpg)
+
+Eisen:
+
+- knip de 2 mannen met schaakbord zo goed mogelijk uit
+- gebruik minstens 1 andere foto om ze in een nieuwe omgeving plaats te zetten
+- probeer te letten op kleuren zodat het realistisch lijkt (gebruik Afbeelding > Automatisch Tinten/Kleuren/Contrast)
+
+Als je inspiratie nodig hebt:
+
+- ze schaken in het midden van een sportwedstrijd
+- ze zitten in het midden van een geweld conflict
+- er gaat iets of iemand in volle snelheid tegen hen botsen
+- er staat op het punt iets te vallen op hen
+
+[download de afbeelding](chess-park-focus/chess_park.jpg)
+
+
+
+
+---
+
+### Als je met het bovenstaande klaar bent, mag je aan deze extra opdrachten beginnen
+
+---
+
+
+## 6 Relax zittend op..
+
+Gelijkaardig aan de vorige opdracht, is het de bedoeling dat je deze persoon op een heel andere plaats photoshop waar hij normaal gezien niet zo relaxt zou moeten zijn.
+
+Gebruik wederom gerust je eigen idëeen maar als je inspiratie nodig hebt:
+
+- op de rand van een vulkaan
+- op het dak van een appartement
+- tussen een kudden wilde dieren in savanne
+- midden in een drukke baan
+
+![](people/guy_bench.jpg)
+[download de afbeelding](people/guy_bench.jpg)
+
+## 7 Doe die mens weg
+
+Dit koppel heeft de perfecte foto gemaakt maar jammer genoeg staat er een ongewenste persoon op de achtergrond die de foto verstoort. Pas de foto aan zoals het lijkt dat die persoon er nooit is geweest.
+
+![](people/beach-edit.jpg)
+[download de afbeelding](people/beach-edit.jpg)
+
+## 8 Pas foto aan
+
+Dit meisje vind deze foto leuk maar vind het jammer dat haar bbq (met de zwarte hoes) en die stoel daar staat. Werk die weg. Ze wil ook niet met haar vinger wijzen. Verander haar hand zodat ze niet meer met een vinger wijst.
+
+![](people/girl-bbq.jpg)
+[download de afbeelding](people/girl-bbq.jpg)
