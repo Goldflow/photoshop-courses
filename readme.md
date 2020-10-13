@@ -6,6 +6,14 @@
 - [Les 4](https://goldflow.github.io/photoshop-courses/les4) ( 06/10/2020 )
 - [Les 5](https://goldflow.github.io/photoshop-courses/les5) ( 08/10/2020 )
 
-## Opdrachten
+## Vorige Opdrachten
+
+De meeste opdrachten vind je terug in de lessen zelf
 
 - [Film Poster](https://goldflow.github.io/photoshop-courses/film-poster) tegen ( 12/10/2020 )
+
+## Huidige Opdrachten
+
+- [Instructie GIF](https://github.com/Goldflow/photoshop-courses/tree/master/les5#3-opdracht-instructie-gif) tegen ( 20/10/2020 )
+- [Animal Things](https://goldflow.github.io/photoshop-courses/animal-things) tegen ( 20/10/2020 )
+- [Onverstoord Schaken](https://goldflow.github.io/photoshop-courses/chess-focus/) tegen ( 20/10/2020 )
