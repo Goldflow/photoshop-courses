@@ -186,6 +186,8 @@ Volgende week bekijken we de resultaten klassikaal.
 
 Download de applicatie ScreenToGif en neem 1 photoshop bewerking op, die gebruikt hebt bij 1 van de 2 bovenstaande opdrachten (4 en 5)
 
+[https://www.screentogif.com/](https://www.screentogif.com/)
+
 ![](instructions/screentogifdownload.PNG)
 
 
