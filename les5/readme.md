@@ -158,8 +158,8 @@ Wat ik nu zal vragen is een oefening op het leren uitvoeren van instructies. Het
 
 Voor deze les moet je naast deze opdracht, ook de volgende 2 opdrachten indienen (hoofdstuk 4 & 5)
 
-- 4. OPDRACHT: Animal Things
-- 5. OPDRACHT: Onverstoord Schaken
+- 4. OPDRACHT: Animal Things [link](https://goldflow.github.io/photoshop-courses/animal-things/)
+- 5. OPDRACHT: Onverstoord Schaken [link](https://goldflow.github.io/photoshop-courses/chess-focus/)
 
 Gebruik hiervoor de aangeleerde technieken die we in de vorige lessen hebben gezien. 
 
@@ -186,54 +186,19 @@ Download de applicatie ScreenToGif en neem 1 photoshop bewerking op, die gebruik
 
 ## 4 OPDRACHT: Animal Things
 
-De instagram gebruiker "animalinthings" maakt graag Photoshop werkjes waarbij hij een dier in een object verwerkt.
-
-We gaan dit nu ook doen. Neem je tijd om na te denken hoe je zoiets zou doen en zorg ervoor dat de overgang van "ding" naar "dier" realistisch is.
-
-Kijk naar de voorbeelden als inspiratie. Maak gerust dezelfde idëeen aan maar gebruik nieuwe bronbestanden (en hou de originele bij)
-
-**Upload deze oefening in het relevante uploadzone (naam zal Animal Things bevatten)**
-
-![](animalinthings/aubergine-orca.jpg)
-![](animalinthings/banana-sheep.jpg)
-![](animalinthings/bread-dog.jpg)
-![](animalinthings/cat-burger.jpg)
-![](animalinthings/frog.jpg)
-![](animalinthings/pickle-lizard.jpg)
-![](animalinthings/tiger-ice-cream.jpg)
-![](animalinthings/hot-dog.jpg)
+[link](https://goldflow.github.io/photoshop-courses/animal-things/)
 
 
 ## 5 OPDRACHT: Onverstoord Schaken
 
-Voor deze opdracht vraag ik dat je aantoont dat hun concentratie niet gebroken kan worden door afleidingen / gebeurtenissen of dat deze kalme situatie op het punt staat te veranderen. Ik wil dat je ze uitknipt en in een nieuwe situatie zet die er realistisch uitziet. Laat je verbeelding de vrije loop. 
-
-**Upload deze oefening in het relevante uploadzone (naam zal Onverstoord Schaken bevatten)**
-
-![](chess-park-focus/chess_park.jpg)
-
-Eisen:
-
-- knip de 2 mannen met schaakbord zo goed mogelijk uit
-- gebruik minstens 1 andere foto om ze in een nieuwe omgeving plaats te zetten
-- probeer te letten op kleuren zodat het realistisch lijkt (gebruik Afbeelding > Automatisch Tinten/Kleuren/Contrast)
-
-Als je inspiratie nodig hebt:
-
-- ze schaken in het midden van een sportwedstrijd
-- ze zitten in het midden van een geweld conflict
-- er gaat iets of iemand in volle snelheid tegen hen botsen
-- er staat op het punt iets te vallen op hen
-
-[download de afbeelding](chess-park-focus/chess_park.jpg)
-
-
+[link](https://goldflow.github.io/photoshop-courses/chess-focus/)
 
 
 ---
 
-### Als je met het bovenstaande klaar bent, mag je aan deze extra opdrachten beginnen
+### Als je met het bovenstaande klaar bent, mag je aan de onderstaande extra opdrachten beginnen
 
+<br><br><br><br><br><br><br><br><br><br>
 ---
 
 
