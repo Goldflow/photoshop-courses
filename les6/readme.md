@@ -42,14 +42,38 @@ Inspiratie:
 - [https://2017.motionawards.com/winners/](https://2017.motionawards.com/winners/)
 
 Wat maakt een geanimeerde video goed? Probeer geregeld te tijd te nemen om een antwoord voor jezelf te vinden op die vraag.
+### 1.3 Enkele begrippen in After Effects
+
+#### Composition (compositie)
+
+Een compositie (composition) kan je het best vergelijken met een soort van PSD bestand gelijkaardig aan Photoshop.  Een compositie heeft een bepaalde resolutie & frames per second. Een compositie bestaat ook uit verschillende lagen.  Die lagen kunnen bestaan uit zowel video materiaal als beelden.
+
 
 ### 1.3. Overzicht After Effects interface
 
 ![](ae-basic-overview.png)
 
+#### Project panel
 
+Hierin plaats je alle bronbestanden zoals afbeeldingen (png, jpeg, gif, etc.), Photoshop .PSD, Illustrator .AI, video's, geluidsbestanden etc.
 
+Je vind hier ook de compositie (of verschillende composities) terug van je huidig project.
 
+#### Composition panel
+
+Dit is het paneel waarin je de huidige compositie in kan bekijken. Gelijkaardig aan het canvas in Photoshop. Je kan hier ook bewerkingen uitvoeren.
+
+#### Timeline panel
+
+De tijdslijn of timeline panel, is het paneel waarin je kan kiezen welke lagen wanneer zichtbaar zijn. Je kan hier ook verschillende effecten en manipulaties in toepassen.
+
+De timeline panel heeft links een lagen / layer paneel (gelijkaardig aan photoshop) waarin je de verschillende lagen terugvind. Net zoals in photoshop is de bovenste laag de meest zichtbare laag.
+
+In het rechtse gedeelte, zie je over de tijd van je compositie, welke lagen op welk moment zichtbaar zijn.
+
+#### Effects panel
+
+Hierin kan je verschillende effecten en tools selecteren om toe te passen op je gekozen lagen.
 
 
 #### Stock Video's gratis
