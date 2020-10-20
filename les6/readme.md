@@ -51,7 +51,11 @@ Een compositie (composition) kan je het best vergelijken met een soort van PSD b
 
 ### 1.3. Overzicht After Effects interface
 
-![](ae-basic-overview.png)
+Gelieve onderstaande video te bekijken (gebruik hoofdtelefoon):
+
+[Nederlandstalige overzicht van After Effects](https://www.youtube.com/watch?v=onfbyShe52U)
+
+![Overzicht After Effects interface](ae-basic-overview.png)
 
 #### Project panel
 

@@ -15,7 +15,7 @@
     + [3.4 Lagen verwijderen](#34-lagen-verwijderen)
     + [3.5 Lagen verbergen](#35-lagen-verbergen)
     + [3.6 Lagen beveiligen](#36-lagen-beveiligen)
-  * [4 Overvloeimodus (blending mode)](#4-overvloeimodus--blending-mode-)
+  * [4 Overvloeimodus (blending mode)](#4-overvloeimodus-blending-mode)
   * [5 Laag Maskers (layer masks)](#5-laag-maskers--layer-masks-)
     + [5.1 Wat zijn Laag Maskers](#51-wat-zijn-laag-maskers)
     + [5.2 Hoe maak je een Laag Masker?](#52-hoe-maak-je-een-laag-masker-)

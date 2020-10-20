@@ -4,7 +4,7 @@
   * [1. Inleiding](https://goldflow.github.io/photoshop-courses/les1#1-inleiding)
   * [2. Aan de slag met Photoshop CC](https://goldflow.github.io/photoshop-courses/les1#2-aan-de-slag-met-photoshop-cc)
   * [3. Lagen](https://goldflow.github.io/photoshop-courses/les1#3-lagen)
-  * [4 Overvloeimodus (blending mode)](https://goldflow.github.io/photoshop-courses/les1#4-overvloeimodus--blending-mode-)
+  * [4 Overvloeimodus (blending mode)](https://goldflow.github.io/photoshop-courses/les1#4-overvloeimodus-blending-mode)
   * [5 Laag Maskers (layer masks)](https://goldflow.github.io/photoshop-courses/les1#5-laag-maskers--layer-masks-)
   * [6. Oefening](https://goldflow.github.io/photoshop-courses/les1#-muscle--6-oefening)
 - [Les 2](https://goldflow.github.io/photoshop-courses/les2) ( 22/09/2020 )
