@@ -1,5 +1,5 @@
 - [Photoshop Les 5](#photoshop-les-5)
-  * [1. Reken op jezelf! (self reliance)](#1-reken-op-jezelf---self-reliance-)
+  * [1. Reken op jezelf! (self reliance)](#1-reken-op-jezelf-self-reliance)
     + [1.1 Zelfredzaamheid](#11-zelfredzaamheid)
     + [1.2 Photoshop bied zelf ook heel wat documentatie aan](#12-photoshop-bied-zelf-ook-heel-wat-documentatie-aan)
       - [1.2.1 Lessen bij verschilende tools](#121-lessen-bij-verschilende-tools)

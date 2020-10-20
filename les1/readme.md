@@ -1,5 +1,5 @@
 ﻿- [Photoshop Les 1](#photoshop-les-1)
-  * [Inleiding](#inleiding)
+  * [1. Inleiding](#1-inleiding)
     + [Photoshop vs Illustrator, Wat is nu het verschil](#photoshop-vs-illustrator--wat-is-nu-het-verschil)
     + [Alternatieven voor Photoshop](#alternatieven-voor-photoshop)
       - [1. Sketch 4.0](#1-sketch-40)
@@ -15,19 +15,19 @@
     + [3.4 Lagen verwijderen](#34-lagen-verwijderen)
     + [3.5 Lagen verbergen](#35-lagen-verbergen)
     + [3.6 Lagen beveiligen](#36-lagen-beveiligen)
-  * [4 Blending modes](#4-blending-modes)
+  * [4 Overvloeimodus (blending mode)](#4-overvloeimodus--blending-mode-)
   * [5 Laag Maskers (layer masks)](#5-laag-maskers--layer-masks-)
     + [5.1 Wat zijn Laag Maskers](#51-wat-zijn-laag-maskers)
     + [5.2 Hoe maak je een Laag Masker?](#52-hoe-maak-je-een-laag-masker-)
     + [5.3 Vector Masks](#53-vector-masks)
     + [5.3 Masks Gradients.](#53-masks-gradients)
-  * [:muscle: 6. Oefening](#-muscle--6-oefening)
+  * [6. Oefening](#6-oefening)
 
 ---
 
 # Photoshop Les 1
 
-## Inleiding
+## 1. Inleiding
 
 ### Photoshop vs Illustrator, Wat is nu het verschil
 
@@ -54,16 +54,13 @@ Hieronder zie je het verschil tussen vector (links) en raster (rechts)
 
 Photoshop is nog altijd een veelgebruikte tool maar doordat het initieel ontwikkeld werd voor Fotobewerking voelt Photoshop soms aan als overkill. Tegenwoordig bestaan er heel wat alternatieven voor Webdesign / User Interface Design.
 
-
 #### 1. Sketch 4.0
 
 [https://www.sketchapp.com/](https://www.sketchapp.com/)
 
-![Sketch 4.0](http://chocoladesign.com/wp-content/uploads/2015/03/02-sketch-bohemian-coding-ghost-buttons.jpg "Sketch 4.0")
-
 Sketch is tegenwoordig een heel populaire tool voor designers. Sketch legt de focus op interface design en maakt het makkelijk om te designen voor verschillende schermresoluties (desktop, tablet, smartphone). Bovendien is sketch heel gebruiksvriendelijk dankzij zijn simpele interface. Sketch wordt gebruikt door designers die werken bij Google, Facebook, etc. Het grootste nadeel van Sketch is dat het enkel beschikbaar  voor Mac OS (dus niet op Windows).
 
-:eyeglasses:  [Article Design With Sketch](https://medium.com/design-with-sketch/design-with-sketch-92608a88c103#.uxovft23u)
+[Article Design With Sketch](https://medium.com/design-with-sketch/design-with-sketch-92608a88c103#.uxovft23u)
 
 
 #### 2. Adobe XD (Experience Design)
@@ -78,9 +75,6 @@ Adobe's variant op Sketch. Door de opkomst van Sketch zag Adobe steeds meer en m
 #### 3. Figma
 
 [https://www.figma.com/](https://www.figma.com/)
-
-![Figma](http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/2016/06/13/figma.jpg "Figma")
-
 
 Figma is een nieuwe speler maar zeker één om in het oog te houden. Want het ziet er een veelbelovende tool uit. Figma is net zoals Sketch een gebruiksvriendelijke tool voor Webdesign / Interface design. Maar het grootste voordeel van Figma is dat het online in de browser gebeurt (en kan dus gebruikt worden op zowel Windows, Mac en Linux) bovendien kan je met meerdere mensen tegelijk designen / samenwerken.
 
@@ -187,16 +181,20 @@ Om dit ongedaan te maken druk je opnieuw op het slotje.
 
 ![Lagen beveiligen](https://cl.ly/1U1R0M202w3i/Screen%20Recording%202016-11-11%20at%2004.30%20PM.gif "Lagen beveiligen")
 
-## 4 Blending modes
+## 4 Overvloeimodus (blending mode)
+
+Voorbeeld hoe je een overvloeimodus kan toepassen:
+
+![overvloei modus](overvloeimodus.gif)
 
 Blending modes (overvloeimodus in het nederlands) zijn leuk om te experimenteren met lagen en effecten.
-Je kan een blending mode toepassen op een laag.
+Je kan een overvloei modues (blending mode) toepassen op een laag.
 Dit doe je op de volgende manier:
-- Selecteer een laag en klik op de blending mode die je wilt selecteren.
+- Selecteer een laag en klik op de overvloei modues (blending mode) die je wilt selecteren.
 
 ![Blending Modes](https://cl.ly/1u1N1s0z1C46/Screen%20Recording%202016-11-13%20at%2005.24%20PM.gif "Blending Modes")
 
-:zap: TIP: Je kan gemakkelijk de verschillende blending modes testen via de shortcut shift + plus teken op een mac en ctrl + plus teken op een windows.
+:zap: TIP: Je kan gemakkelijk de verschillende overvloei moduses (blending modusses) testen via de shortcut shift + plus teken op een mac en ctrl + plus teken op een windows.
 
 ## 5 Laag Maskers (layer masks)
 
@@ -291,7 +289,7 @@ Er zijn 2 Soorten gradiënten:
 
 ![Different kinds of gradiants](https://cl.ly/2O37113q0i3F/Image%202016-10-23%20at%201.42.26%20PM.png "Different kinds of gradiants")
 
-## :muscle: 6. Oefening
+## 6. Oefening
 
 Bij deze oefening brengen we alles samen van wat we tot nu toe hebben geleerd (laag, lagen masker, quick selection tool en blending modes).
 

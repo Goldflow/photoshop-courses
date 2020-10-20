@@ -2,17 +2,17 @@
   * [0. Afbeelding importeren](#0-afbeelding-importeren)
   * [1. Oefening](#1-oefening)
   * [2. Resources voor Typografie](#2-resources-voor-typografie)
-  * [3. Inhoud Bewaren Tool - (Content Aware)](#3-inhoud-bewaren-tool----content-aware-)
+  * [3. Inhoud Bewaren Tool - (Content Aware)](#3-inhoud-bewaren-tool-en-retoucheren)
     + [3.1 Een element uit een foto verwijderen](#31-een-element-uit-een-foto-verwijderen)
       - [Opdracht](#opdracht)
     + [3.2 Snel Retoucheer Penseel (Spot Healing Brush Tool)](#32-snel-retoucheer-penseel--spot-healing-brush-tool-)
     + [3.3 De Verplaatsen met behoud van inhoud tool ( Content aware move tool )](#33-de-verplaatsen-met-behoud-van-inhoud-tool---content-aware-move-tool--)
-  * [4. Uitknip Maskers (Clipping masks)](#4-uitknip-maskers--clipping-masks-)
+  * [4. Uitknip Maskers (Clipping masks)](#4-uitknip-maskers)
     + [4.1 Uitknip Masker met tekst](#41-uitknip-masker-met-tekst)
     + [4.2 Uitknip Masker met vormen](#42-uitknip-masker-met-vormen)
   * [5. Colors / Kleuren in Photoshop](#5-colors---kleuren-in-photoshop)
-  * [6. Resources / Inspiratie voor (web) Designers en Developers](#6-resources---inspiratie-voor--web--designers-en-developers)
-  * [8. Film Poster opdracht](#8-film-poster-opdracht)
+  * [6. Resources / Inspiratie voor (web) Designers en Developers](#6-resources-inspiratie-voor-designers-en-developers)
+  * [7. Film Poster opdracht](#7-film-poster-opdracht)
 
   ---
 
@@ -62,9 +62,9 @@ Hier zijn enkele lips om daar nog meer over te leren
 - [Font pair](http://fontpair.co/)
 - [Font wolf](https://www.typewolf.com/)
 
-## 3. Inhoud Bewaren Tool - (Content Aware)
+## 3. Inhoud Bewaren Tool en Retoucheren
 
-Via de Inhoud Bewaren tool kan je objecten uit een foto halen / verplaatsen.
+Via de Inhoud Bewaren tool (Content aware tool) kan je objecten uit een foto halen / verplaatsen.
 Vaak voelt de Inhoud Bewaren tool aan als een beetje magie. Maar in veel gevallen levert de Inhoud Bewaren tool niet altijd een perfect resultaat op.
 
 ### 3.1 Een element uit een foto verwijderen
@@ -125,7 +125,9 @@ Maar kan bijvoorbeeld ook gebruikt worden om een storende elektriciteitskabel ui
 
 ![pineapple.gif](pineapple.gif)
 
-## 4. Uitknip Maskers (Clipping masks)
+## 4. Uitknip Maskers
+
+Wordt  (Clipping masks) genoemd in Engels.
 
 ### 4.1 Uitknip Masker met tekst
 
@@ -168,7 +170,7 @@ Goede bronnen / websites voor kleurengebruik:
 - [Vanschneider](http://www.vanschneider.com/colors/)
 - [Coolors](https://coolors.co/6b6d76-a69888-fcbfb7-334e58-33261d)
 
-## 6. Resources / Inspiratie voor (web) Designers en Developers
+## 6. Resources Inspiratie voor Designers en Developers
 
 Web design / Development is een domein die constant verandert, er komen nieuwe technologieën, nieuwe trends, etc. Daarom is het belangrijk om mee te blijven met de laatste ontwikkelingen en trends.
 
@@ -182,6 +184,6 @@ Deze websites moeten jullie in de gaten houden:
 - [Muz.li](http://muz.li/)
 - [Codrops](http://tympanus.net/codrops/)
 
-## 8. Film Poster opdracht
+## 7. Film Poster opdracht
 
 [klik hier voor de opdracht omschrijving](https://goldflow.github.io/photoshop-courses/film-poster/)

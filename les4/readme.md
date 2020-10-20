@@ -1,7 +1,7 @@
 ﻿- [Photoshop Les 4](#photoshop-les-4)
   * [1. Verkleuren](#1-verkleuren)
       - [Oefening](#oefening)
-  * [2. Handelingen automatiseren (automate actions)](#2-handelingen-automatiseren--automate-actions-)
+  * [2. Handelingen automatiseren (automate actions)](#2-handelingen-automatiseren)
     + [2.1 Zelf Handelingen opnemen (record actions)](#21-zelf-handelingen-opnemen--record-actions-)
     + [2.2 Bestaande Photoshop handelingen importeren (actions)](#22-bestaande-photoshop-handelingen-importeren--actions-)
   * [2.3 Herhalingsoefening: Website in Photoshop maken](#23-herhalingsoefening--website-in-photoshop-maken)
@@ -64,7 +64,7 @@ tip:
 
 dien deze oefening in & geef die oefening als naam "kleur vervanging"
 
-## 2. Handelingen automatiseren (automate actions)
+## 2. Handelingen automatiseren
 
 ### 2.1 Zelf Handelingen opnemen (record actions)
 
