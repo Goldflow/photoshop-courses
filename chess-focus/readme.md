@@ -16,6 +16,14 @@ Eisen:
 - gebruik minstens 1 andere foto om ze in een nieuwe omgeving plaats te zetten
 - probeer te letten op kleuren zodat het realistisch lijkt (gebruik Afbeelding > Automatisch Tinten/Kleuren/Contrast)
 
+### Technieken om te gebruiken
+
+Probeer de op de belichting / kleuren te letten om het een zo realistisch mogelijke compositie te maken.
+Je kan hier ondere andere volgende technieken die we gezien hebben in de klas:
+
+- [Kleur veranderen / aanpassen](https://goldflow.github.io/photoshop-courses/les4/#1-verkleuren)
+- [Overvloeimodus / Blending modes](https://goldflow.github.io/photoshop-courses/les1/#4-overvloeimodus-blending-mode)
+
 ### Idëeen
 Gebruik liefst van al je eigen idëeen maar als je inspiratie nodig hebt:
 
