@@ -17,7 +17,7 @@
   * [2. Resources voor Typografie](https://goldflow.github.io/photoshop-courses/les3#2-resources-voor-typografie)
   * [3. Inhoud Bewaren Tool - (Content Aware) - Retoucheren](https://goldflow.github.io/photoshop-courses/les3#3-inhoud-bewaren-tool-en-retoucheren)
   * [4. Uitknip Maskers (Clipping masks)](https://goldflow.github.io/photoshop-courses/les3#4-uitknip-maskers)
-  * [5. Colors / Kleuren in Photoshop](https://goldflow.github.io/photoshop-courses/les3#5-colors---kleuren-in-photoshop)
+  * [5. Kleuren veranderen in Photoshop](https://goldflow.github.io/photoshop-courses/les3#5-kleuren-veranderen-in-photoshop)
   * [6. Resources / Inspiratie voor (web) Designers en Developers](https://goldflow.github.io/photoshop-courses/les3#6-resources-inspiratie-voor-designers-en-developers)
   * [7. Film Poster opdracht](https://goldflow.github.io/photoshop-courses/les3#7-film-poster-opdracht)
 - [Les 4](https://goldflow.github.io/photoshop-courses/les4) ( 06/10/2020 )
@@ -27,9 +27,9 @@
 - [Les 5](https://goldflow.github.io/photoshop-courses/les5) ( 08/10/2020 & 13/10/2020)
   * [1. Reken op jezelf! (self reliance)](https://goldflow.github.io/photoshop-courses/les5#1-reken-op-jezelf-self-reliance)
   * [2. Herhaling](https://goldflow.github.io/photoshop-courses/les5#2-herhaling)
-  * [3 OPDRACHT: Instructie Gif](https://goldflow.github.io/photoshop-courses/les5#3-opdracht--instructie-gif)
-  * [4 OPDRACHT: Animal Things](https://goldflow.github.io/photoshop-courses/les5#4-opdracht--animal-things)
-  * [5 OPDRACHT: Onverstoord Schaken](https://goldflow.github.io/photoshop-courses/les5#5-opdracht--onverstoord-schaken)
+  * [3 OPDRACHT: Instructie Gif](https://goldflow.github.io/photoshop-courses/les5#3-opdracht-instructie-gif)
+  * [4 OPDRACHT: Animal Things](https://goldflow.github.io/photoshop-courses/les5#4-opdracht-animal-things)
+  * [5 OPDRACHT: Onverstoord Schaken](https://goldflow.github.io/photoshop-courses/les5#5-opdracht-onverstoord-schaken)
 - [Les 6](https://goldflow.github.io/photoshop-courses/les6) ( 15/10/2020)
 
 ## Vorige Opdrachten

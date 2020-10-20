@@ -22,12 +22,12 @@
     + [2.6.4 De Mixerpenseel (mixer brush) tool](#264-de-mixerpenseel--mixer-brush--tool)
   * [2.7 Kloonstempel (Clone Stamp Tool)](#27-kloonstempel--clone-stamp-tool-)
     + [2.7.1 Clone Stamp Tool](#271-clone-stamp-tool)
-  * [3 OPDRACHT: Instructie Gif](#3-opdracht--instructie-gif)
+  * [3 OPDRACHT: Instructie Gif](#3-opdracht-instructie-gif)
     + [3.1 Introductie](#31-introductie)
     + [3.2 Opdracht omschrijving](#32-opdracht-omschrijving)
     + [3.3 Hoe een gif op te nemen met ScreenToGif](#33-hoe-een-gif-op-te-nemen-met-screentogif)
-  * [4 OPDRACHT: Animal Things](#4-opdracht--animal-things)
-  * [5 OPDRACHT: Onverstoord Schaken](#5-opdracht--onverstoord-schaken)
+  * [4 OPDRACHT: Animal Things](#4-opdracht-animal-things)
+  * [5 OPDRACHT: Onverstoord Schaken](#5-opdracht-onverstoord-schaken)
 ---
 
 # Photoshop Les 5
@@ -178,7 +178,7 @@ De clone stamp tool kan gebruikt worden om "onvolmaaktheden" uit een foto te hal
 
 ---
 
-## 3 OPDRACHT: Instructie Gif
+## 3 OPDRACHT Instructie Gif
 
 ### 3.1 Introductie
 
@@ -227,12 +227,12 @@ Download de applicatie ScreenToGif en neem 1 photoshop bewerking op, die gebruik
 
 ---
 
-## 4 OPDRACHT: Animal Things
+## 4 OPDRACHT Animal Things
 
 [link](https://goldflow.github.io/photoshop-courses/animal-things/)
 
 
-## 5 OPDRACHT: Onverstoord Schaken
+## 5 OPDRACHT Onverstoord Schaken
 
 [link](https://goldflow.github.io/photoshop-courses/chess-focus/)
 
