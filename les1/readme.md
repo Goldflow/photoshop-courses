@@ -1,3 +1,30 @@
+﻿- [Photoshop Les 1](#photoshop-les-1)
+  * [Inleiding](#inleiding)
+    + [Photoshop vs Illustrator, Wat is nu het verschil](#photoshop-vs-illustrator--wat-is-nu-het-verschil)
+    + [Alternatieven voor Photoshop](#alternatieven-voor-photoshop)
+      - [1. Sketch 4.0](#1-sketch-40)
+      - [2. Adobe XD (Experience Design)](#2-adobe-xd--experience-design-)
+      - [3. Figma](#3-figma)
+  * [2. Aan de slag met Photoshop CC](#2-aan-de-slag-met-photoshop-cc)
+    + [1. Nieuwe file maken](#1-nieuwe-file-maken)
+    + [2. Bestanden met Photoshop openen](#2-bestanden-met-photoshop-openen)
+  * [3. Lagen](#3-lagen)
+    + [3.1 Introductie tot lagen (layers)](#31-introductie-tot-lagen--layers-)
+    + [3.2 Nieuwe Laag maken](#32-nieuwe-laag-maken)
+    + [3.3 Lagen groeperen](#33-lagen-groeperen)
+    + [3.4 Lagen verwijderen](#34-lagen-verwijderen)
+    + [3.5 Lagen verbergen](#35-lagen-verbergen)
+    + [3.6 Lagen beveiligen](#36-lagen-beveiligen)
+  * [4 Blending modes](#4-blending-modes)
+  * [5 Laag Maskers (layer masks)](#5-laag-maskers--layer-masks-)
+    + [5.1 Wat zijn Laag Maskers](#51-wat-zijn-laag-maskers)
+    + [5.2 Hoe maak je een Laag Masker?](#52-hoe-maak-je-een-laag-masker-)
+    + [5.3 Vector Masks](#53-vector-masks)
+    + [5.3 Masks Gradients.](#53-masks-gradients)
+  * [:muscle: 6. Oefening](#-muscle--6-oefening)
+
+---
+
 # Photoshop Les 1
 
 ## Inleiding
@@ -59,7 +86,7 @@ Figma is een nieuwe speler maar zeker één om in het oog te houden. Want het zi
 
 :eyeglasses:  [Article Figma vs Sketch](https://medium.com/@mengto/figma-vs-sketch-c01e5e74eddd#.kzunurfgs)
 
-## Aan de slag met Photoshop CC
+## 2. Aan de slag met Photoshop CC
 
 Photoshop CC (Photoshop Creative Cloud) is de nieuwste versie van Photoshop en is de versie die we tijdens onze lessen gaan gebruiken. Indien je de versie nog niet geïnstalleerd heb dan kan je eventueel de test-versie downloaden [Download via deze link](https://creative.adobe.com/products/download/photoshop).
 

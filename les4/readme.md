@@ -1,4 +1,28 @@
-﻿# Photoshop Les 4
+﻿- [Photoshop Les 4](#photoshop-les-4)
+  * [1. Verkleuren](#1-verkleuren)
+      - [Oefening](#oefening)
+  * [2. Handelingen automatiseren (automate actions)](#2-handelingen-automatiseren--automate-actions-)
+    + [2.1 Zelf Handelingen opnemen (record actions)](#21-zelf-handelingen-opnemen--record-actions-)
+    + [2.2 Bestaande Photoshop handelingen importeren (actions)](#22-bestaande-photoshop-handelingen-importeren--actions-)
+  * [2.3 Herhalingsoefening: Website in Photoshop maken](#23-herhalingsoefening--website-in-photoshop-maken)
+  * [<br />](#-br---)
+  * [3 GIF: Web Animaties in Photoshop maken](#3-gif--web-animaties-in-photoshop-maken)
+    + [3.1 GIF Introductie](#31-gif-introductie)
+      - [Voorbeelden:](#voorbeelden-)
+      - [Resources:](#resources-)
+    + [3.2 GIF - Oefening: bal botsen aan de hand van Tween](#32-gif---oefening--bal-botsen-aan-de-hand-van-tween)
+    + [Tweening](#tweening)
+    + [Oefening](#oefening-1)
+      - [opdracht:](#opdracht-)
+    + [3.3 GIF - Video tijdslijn](#33-gif---video-tijdslijn)
+    + [3.4 GIF - Opdracht - Portfolio x 2](#34-gif---opdracht---portfolio-x-2)
+    + [3.5 GIF - Opdracht Bewegend Beeld - tegen einde les](#35-gif---opdracht-bewegend-beeld---tegen-einde-les)
+      - [Extra uitdagingen:](#extra-uitdagingen-)
+      - [Hier link naar de les waar we geleerd hebben een object uit de achtergrond te krijgen:](#hier-link-naar-de-les-waar-we-geleerd-hebben-een-object-uit-de-achtergrond-te-krijgen-)
+
+---
+
+# Photoshop Les 4
 
 ## 1. Verkleuren
 
@@ -104,7 +128,7 @@ Je kan alle bron bestanden vinden in bron bestanden van vandaag;
 
 ![http://swaywater.com/](sway_website.png)
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br />
 ---
 
 

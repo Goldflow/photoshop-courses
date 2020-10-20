@@ -1,8 +1,30 @@
+- [Photoshop Les 3](#photoshop-les-3)
+  * [0. Afbeelding importeren](#0-afbeelding-importeren)
+  * [1. Oefening](#1-oefening)
+  * [2. Resources voor Typografie](#2-resources-voor-typografie)
+  * [3. Inhoud Bewaren Tool - (Content Aware)](#3-inhoud-bewaren-tool----content-aware-)
+    + [3.1 Een element uit een foto verwijderen](#31-een-element-uit-een-foto-verwijderen)
+      - [Opdracht](#opdracht)
+    + [3.2 Snel Retoucheer Penseel (Spot Healing Brush Tool)](#32-snel-retoucheer-penseel--spot-healing-brush-tool-)
+    + [3.3 De Verplaatsen met behoud van inhoud tool ( Content aware move tool )](#33-de-verplaatsen-met-behoud-van-inhoud-tool---content-aware-move-tool--)
+  * [4. Uitknip Maskers (Clipping masks)](#4-uitknip-maskers--clipping-masks-)
+    + [4.1 Uitknip Masker met tekst](#41-uitknip-masker-met-tekst)
+    + [4.2 Uitknip Masker met vormen](#42-uitknip-masker-met-vormen)
+  * [5. Colors / Kleuren in Photoshop](#5-colors---kleuren-in-photoshop)
+  * [6. Resources / Inspiratie voor (web) Designers en Developers](#6-resources---inspiratie-voor--web--designers-en-developers)
+  * [8. Film Poster opdracht](#8-film-poster-opdracht)
+
+  ---
+
 # Photoshop Les 3
 
 ## 0. Afbeelding importeren
 
-Als je wil dat je photoshop document automatisch de grootte neemt van je afbeelding, moet je je afbeelding in de layers laag slepen:
+Als je wil gewoon je afbeelding wil importeren, sleep je die in de canvas.
+
+Als je wil dat je photoshop een nieuw document maak in dezelfde exacte resolutie van je afbeelding, moet je je afbeelding in de layers laag slepen.
+
+Voorbeeld van beide mogelijkheden staan hieronder in de gif.
 
 ![afbeeldingimporteren.gif](afbeeldingimporteren.gif)
 
