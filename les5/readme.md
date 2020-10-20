@@ -28,6 +28,7 @@
     + [3.3 Hoe een gif op te nemen met ScreenToGif](#33-hoe-een-gif-op-te-nemen-met-screentogif)
   * [4 OPDRACHT: Animal Things](#4-opdracht-animal-things)
   * [5 OPDRACHT: Onverstoord Schaken](#5-opdracht-onverstoord-schaken)
+
 ---
 
 # Photoshop Les 5

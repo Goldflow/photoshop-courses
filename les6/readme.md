@@ -79,7 +79,45 @@ In het rechtse gedeelte, zie je over de tijd van je compositie, welke lagen op w
 
 Hierin kan je verschillende effecten en tools selecteren om toe te passen op je gekozen lagen.
 
+---
+
+Nieuwe compositie maken:
+
+![](create-comp.gif)
+
+Nieuwe Solid maken:
+
+![](create-solid.gif)
+
+
+![](search-property.gif)
+
+![](basic-animation.gif)
+
+![](basic-animation-rot2.gif)
+
+![](basic-animation.gif)
+
+![](anim-norm-ex.gif)
+
+![](anim-ease-ex.gif)
+
+![](basic-ease.gif)
+
+---
+
+![](import-footage.gif)
+
+![](new-comp-from-footage.gif)
+
+![](trimp-comp.gif)
+
+![](new-comp-from-footage.gif)
 
 #### Stock Video's gratis
 
 [https://www.pexels.com/nl-nl/zoeken/videos](https://www.pexels.com/nl-nl/zoeken/videos)
+
+#### Extra Informatie om door te nemen
+
+[The 12 principles of animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
