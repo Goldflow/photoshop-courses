@@ -79,18 +79,39 @@ In het rechtse gedeelte, zie je over de tijd van je compositie, welke lagen op w
 
 Hierin kan je verschillende effecten en tools selecteren om toe te passen op je gekozen lagen.
 
----
+### 2. Oefening Basis Animatie
 
-Nieuwe compositie maken:
+In deze oefening leren we hoe we een basis animatie kunnen maken in After Effects en hoe we verschillende aanpassingen kunnen doen.
+
+We beginnen eerst met een nieuwe compositie te maken.
 
 ![](create-comp.gif)
 
-Nieuwe Solid maken:
+Op de afbeelding hieronder zie je ze nog allemaal eens op een rijtje:
+![](comp-start.PNG)
+
+Belangrijkste instelingen om je compositie te maken
+
+- Width & Height: Breedte & Hoogte, in principe hoeveel pixels breed & hoog je de compositie wil
+- Start Timecode: tijdspunt waarop compositie begint, we laten dit op standaardwaarde staan (0:00:00:00 - uren:minuten:seconden:frames)
+- Duration: we laten het hier beginnen vanaf 3 seconde, dus 0:00:03:00
+- Frame rate (of FPS = Frames per second), staat voor hoeveel frames per seconde er te zien zijn. Hoe hoger, hoe vloeiender. Standaard staat dit rond de 30 maar voor deze oefening zetten we het op 60
+
+We hebben natuurlijk iets nodig om te animeren. We kiezen om te beginnen een basisvorm, met name een vierkant. Een basisvorm noemt een "solid". Hieronder zie 2 manieren om een solid te maken.
+
+Een manier: Layer > New > Solid
+
+Zorg dat je de kleur kiest vooraleer je op confirm drukt.
 
 ![](create-solid.gif)
 
+Eenmaal je layers (lagen) in je layer panel hebt kan je die openklikken om de verschillende eigenschappen te bekijken, maar je kan er ook op zoeken (zie onderstaande gif).
 
 ![](search-property.gif)
+
+Om een basis animatie te maken, moeten we de "stopwatch" activeren. Dit zorgt ervoor dat er op het gekozen tijdstip een keyframe wordt aangemaakt. Om dan de animatie te vervolledigen moet je het tijdstip verplaatsen en en een aanpassing maken voor de gekozen eigenschap.
+
+In ons geval, gaan we bij het beginpunt de stopwatch drukken, en dan op een later punt (seconde 2) de X coordinaat aanpassen.
 
 ![](basic-animation.gif)
 
