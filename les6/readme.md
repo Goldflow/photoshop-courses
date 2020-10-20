@@ -141,11 +141,7 @@ In deze opdracht gaan we iets gelijkaardig maken als de Brooklyn 99 intro, maar 
 
 Je mag beginnen met de video squirrel.mp4 te downloaden van het bron materiaal voor de les van 2020-10-20.
 
-Vervolgens ga je die importeren op volgende wijze:
-
-![](import-footage.gif)
-
-Dan maken we een nieuwe compositie door die te slepen in het compositie icoontje:
+Vervolgens ga je die importeren op volgende wijze en maken we een nieuwe compositie door die te slepen in het compositie icoontje:
 
 ![](new-comp-from-footage.gif)
 
@@ -159,11 +155,17 @@ Vervolgens gaan we de frame waarbij we willen dat die stilstaat en Hiervoor sele
 
 Vervolgens begin je de eekhoor uit te knippen in Photoshop.
 
+Eenmaal je de eekhoorn hebt uitgeknipt breng je die terug in After Effects en zet je daar een gekleurde laag achter en animeer je een naam (bv je eigen naam) voor de eekhoorn.
+
 
 #### Stock Video's gratis
 
 [https://www.pexels.com/nl-nl/zoeken/videos](https://www.pexels.com/nl-nl/zoeken/videos)
 
-#### Extra Informatie om door te nemen
+#### Extra Informatie om door te nemen voor mensen die thuis werken
 
 [The 12 principles of animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
+
+[Basis After Effects in het Nederlands](https://www.youtube.com/watch?v=onfbyShe52U)
+
+[Adobe MAX](https://www.adobe.com/max.html)
