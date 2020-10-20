@@ -1,5 +1,5 @@
 ﻿- [Photoshop Les 4](#photoshop-les-4)
-  * [1. Verkleuren](#1-verkleuren)
+  * [1. Verkleuren - Kleuren aanpassen](#1-verkleuren)
       - [Oefening](#oefening)
   * [2. Handelingen automatiseren (automate actions)](#2-handelingen-automatiseren)
     + [2.1 Zelf Handelingen opnemen (record actions)](#21-zelf-handelingen-opnemen--record-actions-)

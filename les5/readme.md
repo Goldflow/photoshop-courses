@@ -178,7 +178,7 @@ De clone stamp tool kan gebruikt worden om "onvolmaaktheden" uit een foto te hal
 
 ---
 
-## 3 OPDRACHT Instructie Gif
+## 3 OPDRACHT: Instructie Gif
 
 ### 3.1 Introductie
 

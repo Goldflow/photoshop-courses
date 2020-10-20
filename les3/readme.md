@@ -10,7 +10,7 @@
   * [4. Uitknip Maskers (Clipping masks)](#4-uitknip-maskers)
     + [4.1 Uitknip Masker met tekst](#41-uitknip-masker-met-tekst)
     + [4.2 Uitknip Masker met vormen](#42-uitknip-masker-met-vormen)
-  * [5. Colors / Kleuren veranderen in Photoshop](#5-kleuren-veranderen-in-photoshop)
+  * [5. Colors / Kleuren kiezen in Photoshop](#5-kleuren-kiezen-in-photoshop)
   * [6. Resources / Inspiratie voor (web) Designers en Developers](#6-resources-inspiratie-voor-designers-en-developers)
   * [7. Film Poster opdracht](#7-film-poster-opdracht)
 
@@ -157,7 +157,7 @@ Bijvoorbeeld profielfoto in cirkel...
 - Sleep de laag met de cirkel onder de laag met de afbeelding met de bergen.
 - Selecteer de laag met de bergen, rechtermuisknop, "Uitknip Masker maken"
 
-## 5. Kleuren veranderen in Photoshop
+## 5. Kleuren kiezen in Photoshop
 
 Zoals jullie waarschijnlijk al opgemerkt hebben heb je in photoshop een "onbeperkte keuze" aan kleuren. En doordat er zo veel kleuren zijn is het niet altijd even makkelijk om kleuren uit te kiezen voor designs (zeker in het begin niet).
 
