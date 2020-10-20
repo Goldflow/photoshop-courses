@@ -135,13 +135,30 @@ Om easing toe te passen selecteer je de 2e keyframes en dan rechterklik je op 1 
 
 ### 3. OPDRACHT Squirel titles
 
+In deze opdracht gaan we iets gelijkaardig maken als de Brooklyn 99 intro, maar dan met dieren.
+
+[Brooklyn 99 intro](https://www.youtube.com/watch?v=v0QTdCHX_-c)
+
+Je mag beginnen met de video squirrel.mp4 te downloaden van het bron materiaal voor de les van 2020-10-20.
+
+Vervolgens ga je die importeren op volgende wijze:
+
 ![](import-footage.gif)
 
+Dan maken we een nieuwe compositie door die te slepen in het compositie icoontje:
+
 ![](new-comp-from-footage.gif)
+
+Vervolgens kiezen gaan we de werkruimte (work area) aanpassen zodat we enkel werken met de eerste 10 seconden. Zoals in de afbeelding kan je het gedeelte waarin je werkt verkleinen naar enkel de tijd die je wil door de balk juist onder de tijdsaanduiding te verkleinen. Dan, wanneer je de gewenste periode hebt gekozen, rechterklik je op die balk en kies je: "Trim Comp to Work Area".
 
 ![](trimp-comp.gif)
 
-![](new-comp-from-footage.gif)
+Vervolgens gaan we de frame waarbij we willen dat die stilstaat en Hiervoor selecteren we een frame uit de video. Je kan naar de seconde gaan die je wil; best kies je 1 waar de eekhoorn duidelijk zichtbaar is. Dan klik je op Composition > Save Frame > as Photoshop Layers
+
+![](save-frame.gif)
+
+Vervolgens begin je de eekhoor uit te knippen in Photoshop.
+
 
 #### Stock Video's gratis
 
