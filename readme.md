@@ -24,13 +24,13 @@
   * [1. Verkleuren - Kleuren aanpassen / veranderen](https://goldflow.github.io/photoshop-courses/les4#1-verkleuren)
   * [2. Handelingen automatiseren (automate actions)](https://goldflow.github.io/photoshop-courses/les4#2-handelingen-automatiseren)
   * [3 GIF: Web Animaties in Photoshop maken](https://goldflow.github.io/photoshop-courses/les4#3-gif--web-animaties-in-photoshop-maken)
-- [Les 5](https://goldflow.github.io/photoshop-courses/les5) ( 08/10/2020 & 13/10/2020)
+- [Les 5](https://goldflow.github.io/photoshop-courses/les5) ( 08/10/2020, 13/10/2020, 15/10/2020)
   * [1. Reken op jezelf! (self reliance)](https://goldflow.github.io/photoshop-courses/les5#1-reken-op-jezelf-self-reliance)
   * [2. Herhaling](https://goldflow.github.io/photoshop-courses/les5#2-herhaling)
   * [3 OPDRACHT: Instructie Gif](https://goldflow.github.io/photoshop-courses/les5#3-opdracht-instructie-gif)
   * [4 OPDRACHT: Animal Things](https://goldflow.github.io/photoshop-courses/les5#4-opdracht-animal-things)
   * [5 OPDRACHT: Onverstoord Schaken](https://goldflow.github.io/photoshop-courses/les5#5-opdracht-onverstoord-schaken)
-- [Les 6](https://goldflow.github.io/photoshop-courses/les6) ( 15/10/2020)
+- [Les 6](https://goldflow.github.io/photoshop-courses/les6) ( 20/10/2020, 22/10/20)
 
 ## Vorige Opdrachten
 
