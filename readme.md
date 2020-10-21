@@ -36,10 +36,10 @@
 
 De meeste opdrachten vind je terug in de lessen zelf
 
-- [Film Poster](https://goldflow.github.io/photoshop-courses/film-poster) tegen ( 12/10/2020 )
+- [Film Poster](https://goldflow.github.io/photoshop-courses/film-poster) tegen ( ~12/10/2020~ > 25/10/2020 )
 
 ## Huidige Opdrachten
 
-- [Instructie GIF](https://github.com/Goldflow/photoshop-courses/tree/master/les5#3-opdracht-instructie-gif) tegen ( 20/10/2020 )
-- [Animal Things](https://goldflow.github.io/photoshop-courses/animal-things) tegen ( 20/10/2020 )
-- [Onverstoord Schaken](https://goldflow.github.io/photoshop-courses/chess-focus/) tegen ( 20/10/2020 )
+- [Instructie GIF](https://github.com/Goldflow/photoshop-courses/tree/master/les5#3-opdracht-instructie-gif) tegen ( ~20/10/2020~ > 25/10/2020 )
+- [Animal Things](https://goldflow.github.io/photoshop-courses/animal-things) tegen ( ~20/10/2020~ > 25/10/2020 )
+- [Onverstoord Schaken](https://goldflow.github.io/photoshop-courses/chess-focus/) tegen ( ~20/10/2020~ > 25/10/2020 )
