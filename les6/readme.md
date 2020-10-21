@@ -162,7 +162,7 @@ Eenmaal je de eekhoorn hebt uitgeknipt breng je die terug in After Effects en ze
 
 [https://www.pexels.com/nl-nl/zoeken/videos](https://www.pexels.com/nl-nl/zoeken/videos)
 
-#### Extra Informatie om door te nemen voor mensen die thuis werken
+#### Afstandsonderwijs zonder software
 
 [The 12 principles of animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
 
