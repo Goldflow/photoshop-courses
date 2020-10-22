@@ -21,7 +21,7 @@ Je kan hier ondere andere volgende technieken die we gezien hebben in de klas:
 - [Kleur veranderen / aanpassen](https://goldflow.github.io/photoshop-courses/les4/#1-verkleuren)
 
 Een voorbeeld en instructie hieronder ( voor meer informatie ga naar deze link > [Kleur veranderen / aanpassen](https://goldflow.github.io/photoshop-courses/les4/#1-verkleuren) )
-![Kleur veranderen / aanpassen](kleur-vervangen.gif)
+![voorbeeld hoe kleur vervangen](kleur-vervangen.gif)
 
 ### Bron Materiaal
 
