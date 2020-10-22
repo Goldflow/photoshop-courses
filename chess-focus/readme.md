@@ -1,4 +1,4 @@
-## OPDRACHT: Onverstoord Schaken
+﻿## OPDRACHT: Onverstoord Schaken
 
 ### Introductie
 
@@ -29,7 +29,7 @@ Je kan hier ondere andere volgende technieken die we gezien hebben in de klas:
 Er zijn veel verschillende technieken die toegepast kunnen worden om de schakers te plaatsen in een omgeving die realistisch blijft.
 Hiervoor kan je bijvoorbeeld kleurtoon/verzadiging aanpassen op volgende manier:
 
-![kleur-toon-verzadiging](kleur-toon-verzadiging.gif)
+![kleur-toon-verzadiging](kleur-toon-verzadiging_.gif)
 
 
 ### Idëeen
