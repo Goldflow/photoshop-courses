@@ -164,8 +164,23 @@ Eenmaal je de eekhoorn hebt uitgeknipt breng je die terug in After Effects en ze
 
 #### Afstandsonderwijs zonder software
 
-[The 12 principles of animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
+Als je klaar bent met ALLE opdrachten of heb je het niet de nodige software om de oefeningen te maken, kan je volgend materiaal doornemen. Dit zal dienen als basis om verdere opdrachten uit te voeren.
 
+---
+Ben Marriot is een zeer goede (online) lesgever voor After Effects & Motion Design, weliswaar in het Engels.
+Hij heeft op [zijn youtube kanaal (klik hier)](https://www.youtube.com/channel/UCjJk212xU15y_NPYKuCsKQA) heel veel boeiende tutorials waarbij je vaak ook de project files kan downloaden.
+
+[Learn After Effects in 10 Minutes! Beginner Tutorial](https://www.youtube.com/watch?v=hb2bbfiNBXA)
+
+[50 After Effects Tips, Tricks & Secrets for Beginners](https://www.youtube.com/watch?v=LdLdRRWNkNc)
+---
+Michael Terny [(klik hier)](https://www.youtube.com/channel/UCqAsrgGkeN92yNu4dmi0PFw) & Peter McKinnon [(klik hier)](https://www.youtube.com/channel/UC3DkFux8Iv-aYnTRWzwaiBA) hebben ook leuke tutorials die je kan bekijken
+---
+De basis van After Effects in het Nederlands door een Nederlandse:
 [Basis After Effects in het Nederlands](https://www.youtube.com/watch?v=onfbyShe52U)
-
+---
+Volg enkele lezingen / conferenties op de Adobe MAX website
 [Adobe MAX](https://www.adobe.com/max.html)
+---
+We gaan in deze les niet zo ver gaan in animatie, maar het is zeker interessant als animatie iets is die je interesseert:
+[The 12 principles of animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
