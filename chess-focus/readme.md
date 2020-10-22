@@ -24,6 +24,14 @@ Je kan hier ondere andere volgende technieken die we gezien hebben in de klas:
 - [Kleur veranderen / aanpassen](https://goldflow.github.io/photoshop-courses/les4/#1-verkleuren)
 - [Overvloeimodus / Blending modes](https://goldflow.github.io/photoshop-courses/les1/#4-overvloeimodus-blending-mode)
 
+#### Kleurtoon aanpassen
+
+Er zijn veel verschillende technieken die toegepast kunnen worden om de schakers te plaatsen in een omgeving die realistisch blijft.
+Hiervoor kan je bijvoorbeeld kleurtoon/verzadiging aanpassen op volgende manier:
+
+![kleur-toon-verzadiging](kleur-toon-verzadiging.gif)
+
+
 ### Idëeen
 Gebruik liefst van al je eigen idëeen maar als je inspiratie nodig hebt:
 
