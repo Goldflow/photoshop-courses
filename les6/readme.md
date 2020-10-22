@@ -83,19 +83,31 @@ Hierin kan je verschillende effecten en tools selecteren om toe te passen op je 
 
 In deze oefening leren we hoe we een basis animatie kunnen maken in After Effects en hoe we verschillende aanpassingen kunnen doen.
 
+### Nieuwe Compositie maken
+
 We beginnen eerst met een nieuwe compositie te maken.
 
-![](create-comp.gif)
-
-Op de afbeelding hieronder zie je ze nog allemaal eens op een rijtje:
-![](comp-start.PNG)
-
-Belangrijkste instelingen om je compositie te maken
+Belangrijkste instelingen om je compositie te maken:
 
 - Width & Height: Breedte & Hoogte, in principe hoeveel pixels breed & hoog je de compositie wil
 - Start Timecode: tijdspunt waarop compositie begint, we laten dit op standaardwaarde staan (0:00:00:00 - uren:minuten:seconden:frames)
 - Duration: we laten het hier beginnen vanaf 3 seconde, dus 0:00:03:00
 - Frame rate (of FPS = Frames per second), staat voor hoeveel frames per seconde er te zien zijn. Hoe hoger, hoe vloeiender. Standaard staat dit rond de 30 maar voor deze oefening zetten we het op 60
+
+Op de afbeelding hieronder zie je ze nog allemaal eens op een rijtje:
+![ ](comp-start.PNG)
+
+Hieronder zie je hoe je er aan begint:
+
+![ ](create-comp.gif)
+
+### Anker punt standaard centreren
+
+Voor je er aan begint, zeer belangrijk dat je deze setting goed zet; het is belangrijk wanneer je een vorm gaat animeren en je de rotatie wil aanpassen, dat het ankerpunt (anchor point) van het object in het midden staat. Enkel dan kan de basisvorm roteren rond zijn middelpunt.
+
+![center-anchor-point](center-anchor-point.gif)
+
+### Basisvorm aanmaken
 
 We hebben natuurlijk iets nodig om te animeren. We kiezen om te beginnen een basisvorm, met name een vierkant. Een basisvorm noemt een "solid". Hieronder zie 2 manieren om een solid te maken.
 
@@ -105,39 +117,75 @@ Zorg dat je de kleur kiest vooraleer je op confirm drukt.
 
 ![](create-solid.gif)
 
+### Eigenschappen (properties) opzoeken
+
 Eenmaal je layers (lagen) in je layer panel hebt kan je die openklikken om de verschillende eigenschappen te bekijken, maar je kan er ook op zoeken (zie onderstaande gif).
 
 ![](search-property.gif)
+
+### Basis animatie in een richting
 
 Om een basis animatie te maken, moeten we de "stopwatch" activeren. Dit zorgt ervoor dat er op het gekozen tijdstip een keyframe wordt aangemaakt. Om dan de animatie te vervolledigen moet je het tijdstip verplaatsen en en een aanpassing maken voor de gekozen eigenschap.
 
 In ons geval, gaan we bij het beginpunt de stopwatch drukken, en dan op een later punt (seconde 2) de X coordinaat aanpassen.
 
-![](basic-animation.gif)
+![ ](basic-animation.gif)
+
+### Basis animatie als rotatie
 
 Je kan hetzelfde doen om een rotatie te maken door de rotation property aan te passen.
 
-![](basic-animation-rot2.gif)
+![ ](basic-animation-rot2.gif)
 
 Kan je het verschil zien tussen volgende 2 animaties. Bij de eerste is de animatie zonder easing, dat wel zeggen dat te constant op de zelfde snelheid beweegt.
 
-![](anim-norm-ex.gif)
+### Easing
+
+No easing:
+![ ](anim-norm-exx.gif)
+Easing:
+![ ](anim-ease-ex.gif)
 
 De 2e afbeelding werd er "easing" toegepast, in de animatie wereld wil dit zeggen dat de snelheid een beetje creatiever wordt gemaakt bv het begin trager te laten bewegen, dan sneller, en dan weer te eindigen met tragere beweging.
 
-![](anim-ease-ex.gif)
+Als je meer in detail wil weten wat easing precies is, kan je deze link openen en bekijken [After Effects Tutorial - Easing (Motion Design Techniques)
+](https://www.youtube.com/watch?v=AlXEzbhfZJM)
+
+---
 
 Om easing toe te passen selecteer je de 2e keyframes en dan rechterklik je op 1 van 2. Dan kies je "Keyframe Assistant" en dan kies je vervolgens "Easy Ease", experimenteer gerust eens met de andere opties.
 
-![](basic-ease.gif)
+![ ](basic-ease.gif)
 
+## 3. Video opslaan (renderen)
 
+Zo'n After Effects compositie is natuurlijk niet zo handig om je video te tonen of te delen met anderen.
 
-## 3. OPDRACHT Squirel titles
+Er zijn verschillende manieren om een video te experteren. Een ervan is met de Render Queue, dat is een manier binnen After Effects om de video te exporteren, maar er gebeurt geen compressie/encoding dus het bestand zal groot zijn.
+
+![ render-queue ](render-queue.gif)
+
+Als dit programma ook geïnstalleerd is, is het ook beter om het met de Adobe Media Encoder te doen. Dan gaat het ook veel kleiner worden en correct gecomprimeerd / encoded worden.
+
+![ adobe-media-encoder ](adobe-media-encoder.gif)
+
+## 4. OPDRACHT - Eerste (eigen) Animatie maken
+
+Probeer nu eens een animatie naar keuze te maken. Je kan gerust Illustrator of Photoshop bestanden gebruiken. Probeer verschillende elementen te animeren door de technieken in vorige hoofdstukken te gebruiken.
+
+Probeer die animatie dan op te slaan en up te loaden in de map met naam "Eerste Animatie".
+
+Belangrijk dat het bestand minder groot is dan 100 MB. Als dat niet lukt, gelieve hulp te gebruiken.
+
+## 5. OPDRACHT Squirrel titles
 
 In deze opdracht gaan we iets gelijkaardig maken als de Brooklyn 99 intro, maar dan met dieren.
 
+Bekijk eens de intro hieronder;
+
 [Brooklyn 99 intro](https://www.youtube.com/watch?v=v0QTdCHX_-c)
+
+![](brooklyn99-intro.PNG)
 
 Je mag beginnen met de video squirrel.mp4 te downloaden van het bron materiaal voor de les van 2020-10-20.
 
@@ -153,10 +201,9 @@ Vervolgens gaan we de frame waarbij we willen dat die stilstaat en Hiervoor sele
 
 ![](save-frame.gif)
 
-Vervolgens begin je de eekhoor uit te knippen in Photoshop.
+Vervolgens begin je de eekhoorn uit te knippen in Photoshop.
 
 Eenmaal je de eekhoorn hebt uitgeknipt breng je die terug in After Effects en zet je daar een gekleurde laag achter en animeer je een naam (bv je eigen naam) voor de eekhoorn.
-
 
 #### Stock Video's gratis
 
@@ -169,6 +216,7 @@ Als je klaar bent met ALLE opdrachten of heb je het niet de nodige software om d
 ### Online Lesgevers
 
 #### Ben Marriot
+
 Ben Marriot is een zeer goede youtube lesgevers voor After Effects & Motion Design, weliswaar in het Engels.
 Hij heeft op [zijn youtube kanaal (klik hier)](https://www.youtube.com/channel/UCjJk212xU15y_NPYKuCsKQA) heel veel boeiende tutorials waarbij je vaak ook de project files kan downloaden.
 
@@ -177,20 +225,29 @@ Hij heeft op [zijn youtube kanaal (klik hier)](https://www.youtube.com/channel/U
 [50 After Effects Tips, Tricks & Secrets for Beginners](https://www.youtube.com/watch?v=LdLdRRWNkNc)
 
 #### Andere
+
 Michael Terny [(klik hier)](https://www.youtube.com/channel/UCqAsrgGkeN92yNu4dmi0PFw) & Peter McKinnon [(klik hier)](https://www.youtube.com/channel/UC3DkFux8Iv-aYnTRWzwaiBA) hebben ook leuke tutorials die je kan bekijken
 
 als je er zelf nog kent, mag je me die gerust geven, dan zet ik ze hierbij
 
 ### Basis After Effects in het Nederlands
+
 Het is niet makkelijk om informatie over After Effects te vinden in het Nederlands, maar bij deze;
 De basis van After Effects in het Nederlands door een Nederlandse:
 [Basis After Effects in het Nederlands](https://www.youtube.com/watch?v=onfbyShe52U)
 
 ### Adobe MAX
+
 Voor allerhande onderwerpen, zowel technische, artistiek en creatief, kan het leuk zijn om enkele lezingen mee te pikken op de Adobe MAX conferentie website:
 
 [Adobe MAX](https://www.adobe.com/max.html)
 
-### 
+### 12 principes van Animatie
+
 We gaan in deze les niet zo ver gaan in animatie, maar het is zeker interessant als animatie iets is die je interesseert:
 [The 12 principles of animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
+
+### Meer over encoding
+
+[ Video Formats, Codecs and Containers (Explained)
+ ](https://www.youtube.com/watch?v=XvoW-bwIeyY)
