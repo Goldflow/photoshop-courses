@@ -42,8 +42,8 @@
 - [Les 6: After Effects](https://goldflow.github.io/photoshop-courses/les6) ( 20/10/2020, 22/10/20)
   * [1. Introductie](https://goldflow.github.io/photoshop-courses/les6#1-introductie)
   * [2. Oefening Basis Animatie](https://goldflow.github.io/photoshop-courses/les6#2-oefening-basis-animatie)
-  * [3. Video opslaan (renderen)](https://goldflow.github.io/photoshop-courses/les6#3-video-opslaan-renderen-)
-  * [4. OPDRACHT - Eerste (eigen) Animatie maken](https://goldflow.github.io/photoshop-courses/les6#4-opdracht-eerste-eigen-animatie-maken)
+  * [3. Video opslaan (renderen)](https://goldflow.github.io/photoshop-courses/les6#3-video-opslaan-renderen)
+  * [4. OPDRACHT - Eerste (eigen) Animatie maken](https://goldflow.github.io/photoshop-courses/les6#4-opdracht---eerste-eigen-animatie-maken)
   * [5. OPDRACHT Squirrel titles](https://goldflow.github.io/photoshop-courses/les6#5-opdracht-squirrel-titles)
   * [Afstandsonderwijs zonder software](https://goldflow.github.io/photoshop-courses/les6#afstandsonderwijs-zonder-software)
 
