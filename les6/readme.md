@@ -79,7 +79,7 @@ In het rechtse gedeelte, zie je over de tijd van je compositie, welke lagen op w
 
 Hierin kan je verschillende effecten en tools selecteren om toe te passen op je gekozen lagen.
 
-### 2. Oefening Basis Animatie
+## 2. Oefening Basis Animatie
 
 In deze oefening leren we hoe we een basis animatie kunnen maken in After Effects en hoe we verschillende aanpassingen kunnen doen.
 
@@ -133,7 +133,7 @@ Om easing toe te passen selecteer je de 2e keyframes en dan rechterklik je op 1 
 
 
 
-### 3. OPDRACHT Squirel titles
+## 3. OPDRACHT Squirel titles
 
 In deze opdracht gaan we iets gelijkaardig maken als de Brooklyn 99 intro, maar dan met dieren.
 
@@ -162,25 +162,35 @@ Eenmaal je de eekhoorn hebt uitgeknipt breng je die terug in After Effects en ze
 
 [https://www.pexels.com/nl-nl/zoeken/videos](https://www.pexels.com/nl-nl/zoeken/videos)
 
-#### Afstandsonderwijs zonder software
+## Afstandsonderwijs zonder software
 
 Als je klaar bent met ALLE opdrachten of heb je het niet de nodige software om de oefeningen te maken, kan je volgend materiaal doornemen. Dit zal dienen als basis om verdere opdrachten uit te voeren.
 
----
-Ben Marriot is een zeer goede (online) lesgever voor After Effects & Motion Design, weliswaar in het Engels.
+### Online Lesgevers
+
+#### Ben Marriot
+Ben Marriot is een zeer goede youtube lesgevers voor After Effects & Motion Design, weliswaar in het Engels.
 Hij heeft op [zijn youtube kanaal (klik hier)](https://www.youtube.com/channel/UCjJk212xU15y_NPYKuCsKQA) heel veel boeiende tutorials waarbij je vaak ook de project files kan downloaden.
 
 [Learn After Effects in 10 Minutes! Beginner Tutorial](https://www.youtube.com/watch?v=hb2bbfiNBXA)
 
 [50 After Effects Tips, Tricks & Secrets for Beginners](https://www.youtube.com/watch?v=LdLdRRWNkNc)
----
+
+#### Andere
 Michael Terny [(klik hier)](https://www.youtube.com/channel/UCqAsrgGkeN92yNu4dmi0PFw) & Peter McKinnon [(klik hier)](https://www.youtube.com/channel/UC3DkFux8Iv-aYnTRWzwaiBA) hebben ook leuke tutorials die je kan bekijken
----
+
+als je er zelf nog kent, mag je me die gerust geven, dan zet ik ze hierbij
+
+### Basis After Effects in het Nederlands
+Het is niet makkelijk om informatie over After Effects te vinden in het Nederlands, maar bij deze;
 De basis van After Effects in het Nederlands door een Nederlandse:
 [Basis After Effects in het Nederlands](https://www.youtube.com/watch?v=onfbyShe52U)
----
-Volg enkele lezingen / conferenties op de Adobe MAX website
+
+### Adobe MAX
+Voor allerhande onderwerpen, zowel technische, artistiek en creatief, kan het leuk zijn om enkele lezingen mee te pikken op de Adobe MAX conferentie website:
+
 [Adobe MAX](https://www.adobe.com/max.html)
----
+
+### 
 We gaan in deze les niet zo ver gaan in animatie, maar het is zeker interessant als animatie iets is die je interesseert:
 [The 12 principles of animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
