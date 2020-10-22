@@ -19,9 +19,30 @@ Je kan hier ondere andere volgende technieken die we gezien hebben in de klas:
 
 - [Overvloeimodus / Blending modes](https://goldflow.github.io/photoshop-courses/les1/#4-overvloeimodus-blending-mode)
 - [Kleur veranderen / aanpassen](https://goldflow.github.io/photoshop-courses/les4/#1-verkleuren)
+- [Verloop Maskers (Mask Gradients)](https://github.com/Goldflow/photoshop-courses/tree/master/les1#53-masks-gradients)
 
-Een voorbeeld en instructie hieronder ( voor meer informatie ga naar deze link > [Kleur veranderen / aanpassen](https://goldflow.github.io/photoshop-courses/les4/#1-verkleuren) )
+Enkele voorbeelden van bovenstaande technieken:
+
+#### Kleur veranderen
+Zie [Kleur veranderen / aanpassen](https://goldflow.github.io/photoshop-courses/les4/#1-verkleuren).
+
+Hiermee kan je het kleur aanpassen van ofwel je dier of je ding zodat het meer 1 geheel lijkt.
+
+Door bijvoorbeeld hier de kleur van de mango te nemen, kunnen we dan de vacht van de eend dezelfde kleur geven.
+
 ![voorbeeld hoe kleur vervangen](kleur-vervangen.gif)
+
+#### Verloop Masker (mask gradient) toepassen
+Zie [Verloop Maskers (Mask Gradients)](https://github.com/Goldflow/photoshop-courses/tree/master/les1#53-masks-gradients)
+
+Om de overgang tussen twee gelijkaardige objecten subtieler te maken, kan je een verloop masker (mask gradient) toepassen zoals hieronder.
+
+![voorbeeld hoe mask gradient toe te passen](mask-gradient.gif)
+
+Daarna kan je de laag die je wil bijwerken door het gommetje/gummetje te gebruiken (eraser tool) om het nog beter af te werken:
+
+![voorbeeld hoe mask gradient af te werken met eraser tool](mask-gradient-afwerk.gif)
+
 
 ### Bron Materiaal
 
