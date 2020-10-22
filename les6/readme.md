@@ -142,9 +142,11 @@ Kan je het verschil zien tussen volgende 2 animaties. Bij de eerste is de animat
 ### Easing
 
 No easing:
+
 ![ ](anim-norm-exx.gif)
 
 Easing:
+
 ![ ](anim-ease-ex.gif)
 
 De 2e afbeelding werd er "easing" toegepast, in de animatie wereld wil dit zeggen dat de snelheid een beetje creatiever wordt gemaakt bv het begin trager te laten bewegen, dan sneller, en dan weer te eindigen met tragere beweging.
