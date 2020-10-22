@@ -8,9 +8,42 @@ Voorbeelden kan je vinden als je naar beneden scrollt.
 ### Opdracht
 We gaan dit nu ook doen. Neem je tijd om na te denken hoe je zoiets zou doen en zorg ervoor dat de overgang van "ding" naar "dier" realistisch is.
 
-Kijk naar de voorbeelden als inspiratie. Maak gerust dezelfde idëeen aan maar gebruik nieuwe bronbestanden (en hou de originele bij)
+Kijk naar de voorbeelden als inspiratie. Maak gerust dezelfde idëeen aan maar gebruik nieuwe bronbestanden (en hou de originele bij).
 
 **Upload deze oefening in het relevante uploadzone (naam zal Animal Things bevatten)**
+
+Ik verwacht niet dat je van eerste keer de opdracht volledig goed kan maken. Ik zal je feedback geven en dan wordt je verwacht iets met die feedback te doen om je opdracht te verbeteren.
+
+### Bron Materiaal
+
+Kies zelf welke dier je met welk ding wil combineren. Je kan in de map "animal things" bij de cursus enkele bron bestanden vinden voor "dingen". 
+
+Hierbij kopïeer ik ook nog eens enkele links die ik in les 4 al eens aangehaald heb:
+
+Om foto's te vinden:
+
+Zoekmachines:
+https://www.bing.com/
+
+https://www.google.be/imghp?hl=en&tab=wi&authuser=0&ogbl
+
+probeer te letten op de resolutie: 1600 op 1400 is een goeie standaard
+
+afbeeldingen zonder tekst of teveel bewerkingen
+
+Goeie resources for stock photos (hoge resolutie)
+
+Pexels - https://www.pexels.com/
+
+Pixabay - https://pixabay.com/
+
+Free Nature Stock - http://freenaturestock.com/ <<< VOOR DIEREN
+
+Barn Images - https://barnimages.com/
+
+Foodies Feed - https://www.foodiesfeed.com/
+
+StockSnap - https://stocksnap.io/
 
 ### Technieken om te gebruiken
 
@@ -44,36 +77,7 @@ Daarna kan je de laag die je wil bijwerken door het gommetje/gummetje te gebruik
 ![voorbeeld hoe mask gradient af te werken met eraser tool](mask-gradient-afwerk.gif)
 
 
-### Bron Materiaal
 
-Kies zelf welke dier je met welk ding wil combineren. Je kan in de map "animal things" bij de cursus enkele bron bestanden vinden voor "dingen". 
-
-Hierbij kopïeer ik ook nog eens enkele links die ik in les 4 al eens aangehaald heb:
-
-Om foto's te vinden:
-
-Zoekmachines:
-https://www.bing.com/
-
-https://www.google.be/imghp?hl=en&tab=wi&authuser=0&ogbl
-
-probeer te letten op de resolutie: 1600 op 1400 is een goeie standaard
-
-afbeeldingen zonder tekst of teveel bewerkingen
-
-Goeie resources for stock photos (hoge resolutie)
-
-Pexels - https://www.pexels.com/
-
-Pixabay - https://pixabay.com/
-
-Free Nature Stock - http://freenaturestock.com/ <<< VOOR DIEREN
-
-Barn Images - https://barnimages.com/
-
-Foodies Feed - https://www.foodiesfeed.com/
-
-StockSnap - https://stocksnap.io/
 
 ### Voorbeelden
 
