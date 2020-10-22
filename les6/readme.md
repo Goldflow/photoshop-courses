@@ -143,6 +143,7 @@ Kan je het verschil zien tussen volgende 2 animaties. Bij de eerste is de animat
 
 No easing:
 ![ ](anim-norm-exx.gif)
+
 Easing:
 ![ ](anim-ease-ex.gif)
 
