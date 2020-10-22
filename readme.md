@@ -40,5 +40,11 @@
   * [4 OPDRACHT: Animal Things](https://goldflow.github.io/photoshop-courses/les5#4-opdracht-animal-things)
   * [5 OPDRACHT: Onverstoord Schaken](https://goldflow.github.io/photoshop-courses/les5#5-opdracht-onverstoord-schaken)
 - [Les 6](https://goldflow.github.io/photoshop-courses/les6) ( 20/10/2020, 22/10/20)
-
+- [Les 6: After Effects](#les-6--after-effects)
+  * [1. Introductie](#1-introductie)
+  * [2. Oefening Basis Animatie](#2-oefening-basis-animatie)
+  * [3. Video opslaan (renderen)](#3-video-opslaan--renderen-)
+  * [4. OPDRACHT - Eerste (eigen) Animatie maken](#4-opdracht---eerste--eigen--animatie-maken)
+  * [5. OPDRACHT Squirrel titles](#5-opdracht-squirrel-titles)
+  * [Afstandsonderwijs zonder software](#afstandsonderwijs-zonder-software)
 
