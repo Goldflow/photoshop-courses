@@ -12,6 +12,17 @@ Kijk naar de voorbeelden als inspiratie. Maak gerust dezelfde idëeen aan maar g
 
 **Upload deze oefening in het relevante uploadzone (naam zal Animal Things bevatten)**
 
+### Technieken om te gebruiken
+
+Probeer de op de belichting / kleuren te letten om het een zo realistisch mogelijke compositie te maken.
+Je kan hier ondere andere volgende technieken die we gezien hebben in de klas:
+
+- [Overvloeimodus / Blending modes](https://goldflow.github.io/photoshop-courses/les1/#4-overvloeimodus-blending-mode)
+- [Kleur veranderen / aanpassen](https://goldflow.github.io/photoshop-courses/les4/#1-verkleuren)
+
+Een voorbeeld en instructie hieronder ( voor meer informatie ga naar deze link > [Kleur veranderen / aanpassen](https://goldflow.github.io/photoshop-courses/les4/#1-verkleuren) )
+![Kleur veranderen / aanpassen](kleur-vervangen.gif)
+
 ### Bron Materiaal
 
 Kies zelf welke dier je met welk ding wil combineren. Je kan in de map "animal things" bij de cursus enkele bron bestanden vinden voor "dingen". 
