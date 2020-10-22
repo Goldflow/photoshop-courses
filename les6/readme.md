@@ -169,17 +169,23 @@ Als dit programma ook geïnstalleerd is, is het ook beter om het met de Adobe Me
 
 ![ adobe-media-encoder ](adobe-media-encoder.gif)
 
-## 4. OPDRACHT - Eigen Animatie maken
+## 4. OPDRACHT - Eerste (eigen) Animatie maken
 
-Probeer nu eens een animatie naar keuze te maken. Je kan gerust Illustrator of Photoshop bestanden gebruiken. Probeer verschillende elementen te animeren.
+Probeer nu eens een animatie naar keuze te maken. Je kan gerust Illustrator of Photoshop bestanden gebruiken. Probeer verschillende elementen te animeren door de technieken in vorige hoofdstukken te gebruiken.
 
-Probeer die animatie dan op te slaan en up te loaden. Belangrijk dat het bestand minder groot is dan 100 MB. Als dat niet lukt, gelieve hulp te gebruiken.
+Probeer die animatie dan op te slaan en up te loaden in de map met naam "Eerste Animatie".
 
-## 4. OPDRACHT Squirrel titles
+Belangrijk dat het bestand minder groot is dan 100 MB. Als dat niet lukt, gelieve hulp te gebruiken.
+
+## 5. OPDRACHT Squirrel titles
 
 In deze opdracht gaan we iets gelijkaardig maken als de Brooklyn 99 intro, maar dan met dieren.
 
+Bekijk eens de intro hieronder;
+
 [Brooklyn 99 intro](https://www.youtube.com/watch?v=v0QTdCHX_-c)
+
+![](brooklyn99-intro.PNG)
 
 Je mag beginnen met de video squirrel.mp4 te downloaden van het bron materiaal voor de les van 2020-10-20.
 
@@ -195,7 +201,7 @@ Vervolgens gaan we de frame waarbij we willen dat die stilstaat en Hiervoor sele
 
 ![](save-frame.gif)
 
-Vervolgens begin je de eekhoor uit te knippen in Photoshop.
+Vervolgens begin je de eekhoorn uit te knippen in Photoshop.
 
 Eenmaal je de eekhoorn hebt uitgeknipt breng je die terug in After Effects en zet je daar een gekleurde laag achter en animeer je een naam (bv je eigen naam) voor de eekhoorn.
 
