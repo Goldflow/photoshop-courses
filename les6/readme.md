@@ -121,11 +121,17 @@ Je kan hetzelfde doen om een rotatie te maken door de rotation property aan te p
 
 Kan je het verschil zien tussen volgende 2 animaties. Bij de eerste is de animatie zonder easing, dat wel zeggen dat te constant op de zelfde snelheid beweegt.
 
-![](anim-norm-ex.gif)
+No easing:
+![](anim-norm-exxx.gif)
+Easing:
+![](anim-ease-ex.gif)
 
 De 2e afbeelding werd er "easing" toegepast, in de animatie wereld wil dit zeggen dat de snelheid een beetje creatiever wordt gemaakt bv het begin trager te laten bewegen, dan sneller, en dan weer te eindigen met tragere beweging.
 
-![](anim-ease-ex.gif)
+Als je meer in detail wil weten wat easing precies is, kan je deze link openen en bekijken [After Effects Tutorial - Easing (Motion Design Techniques)
+](https://www.youtube.com/watch?v=AlXEzbhfZJM)
+
+---
 
 Om easing toe te passen selecteer je de 2e keyframes en dan rechterklik je op 1 van 2. Dan kies je "Keyframe Assistant" en dan kies je vervolgens "Easy Ease", experimenteer gerust eens met de andere opties.
 
