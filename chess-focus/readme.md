@@ -27,7 +27,10 @@ Je kan hier ondere andere volgende technieken die we gezien hebben in de klas:
 #### Kleurtoon aanpassen
 
 Er zijn veel verschillende technieken die toegepast kunnen worden om de schakers te plaatsen in een omgeving die realistisch blijft.
-Hiervoor kan je bijvoorbeeld kleurtoon/verzadiging aanpassen op volgende manier:
+Hiervoor kan je bijvoorbeeld kleurtoon/verzadiging aanpassen van de schakers, door die eerst te selecteren (zie onderstaande gif).
+
+- ZEER BELANGRIJK > het is de bedoeling dat je de achtergrond kleur behoud zoals ze is, maar enkel de schakers aanpast van kleur
+- om enkel de schakers aan te passen, moet je die EERST SELECTEREN voor je kleurtoon/verzading aanpast (zie voorbeeld hieronder)
 
 ![kleur-toon-verzadiging](kleur-toon-verzadiging_.gif)
 
