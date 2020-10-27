@@ -172,15 +172,42 @@ Als dit programma ook geïnstalleerd is, is het ook beter om het met de Adobe Me
 
 ![ adobe-media-encoder ](adobe-media-encoder.gif)
 
-## 4. OPDRACHT - Eerste (eigen) Animatie maken
+## 4. Oefening - enkel kleur overlaten
 
-Probeer nu eens een animatie naar keuze te maken. Je kan gerust Illustrator of Photoshop bestanden gebruiken. Probeer verschillende elementen te animeren door de technieken in vorige hoofdstukken te gebruiken.
+We maken een nieuwe compositie met het filmpje bboy.mp4.
+
+Download [ hier ](bboy.mp4)
+
+![ ](bboy-newcomp.gif)
+
+Vervolgens voeg je een effect toe;
+
+Effects > Color Correction > Leave Color
+
+En dan kies je de kleur van de broek.
+
+![ ](bboy-leavecolor.gif)
+
+
+## 5. OPDRACHT - Eerste (eigen) Animatie maken
+
+Probeer nu eens een animatie naar keuze te maken.
+
+Idëeen (kies 1 of meerdere):
+- Je kan gerust Illustrator of Photoshop bestanden gebruiken. Probeer verschillende elementen te animeren door de technieken in vorige hoofdstukken te gebruiken.
+- je kan ook bijvoorbeeld de opdracht Bewegend Beeld opnieuw ophalen en proberen je animatie te maken in After Effects door de verschillende lagen daar te gebruiken
+- Gebruik de basis oefening vierkant en probeer die uit te breiden
+
+Vereisten:
+- Gebruik op zijn minst 1 foto in de opdracht
+- Je naam moet duidelijk zichtbaar zijn ergens in het filmpje
+- Exporteer het filmpje naar een bestand kleiner dan 100 MB (megabyte)
 
 Probeer die animatie dan op te slaan en up te loaden in de map met naam "Eerste Animatie".
 
-Belangrijk dat het bestand minder groot is dan 100 MB. Als dat niet lukt, gelieve hulp te gebruiken.
+Belangrijk dat het bestand minder groot is dan 100 MB. Als dat niet lukt, gelieve hulp te te vragen.
 
-## 5. OPDRACHT Squirrel titles
+## 6. OPDRACHT Squirrel titles
 
 In deze opdracht gaan we iets gelijkaardig maken als de Brooklyn 99 intro, maar dan met dieren.
 
