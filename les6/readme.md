@@ -172,7 +172,9 @@ Als dit programma ook geïnstalleerd is, is het ook beter om het met de Adobe Me
 
 ![ adobe-media-encoder ](adobe-media-encoder.gif)
 
-## 4. Oefening - enkel kleur overlaten
+## 4. Oefeningen
+
+### 4.1 Enkel kleur overlaten
 
 We maken een nieuwe compositie met het filmpje bboy.mp4.
 
@@ -200,12 +202,13 @@ Idëeen (kies 1 of meerdere):
 
 Vereisten:
 - Gebruik op zijn minst 1 foto in de opdracht
-- Je naam moet duidelijk zichtbaar zijn ergens in het filmpje
-- Exporteer het filmpje naar een bestand kleiner dan 100 MB (megabyte)
+- Animeer op zijn minst 3 verschillende objecten
+- Je naam moet duidelijk zichtbaar zijn ergens in het filmpje, liefst met een bepaalde animatie
+- Exporteer het filmpje naar een bestand kleiner dan 100 MB (megabyte) - ik wil dus enkel het video bestand.
 
 Probeer die animatie dan op te slaan en up te loaden in de map met naam "Eerste Animatie".
 
-Belangrijk dat het bestand minder groot is dan 100 MB. Als dat niet lukt, gelieve hulp te te vragen.
+Als iets niet duidelijk is of je hebt vragen, aarzel niet om, om hulp te vragen.
 
 ## 6. OPDRACHT Squirrel titles
 
