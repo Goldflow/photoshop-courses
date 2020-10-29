@@ -79,6 +79,23 @@ In het rechtse gedeelte, zie je over de tijd van je compositie, welke lagen op w
 
 Hierin kan je verschillende effecten en tools selecteren om toe te passen op je gekozen lagen.
 
+### 1.4 Troubleshooting (Algemene Problemen)
+
+Het zal zeker en vast gebeuren dat je in problemen komt bij het uitvoeren van opdrachten
+
+#### Anker punt standaard centreren
+
+Voor je er aan begint, zeer belangrijk dat je deze setting goed zet; het is belangrijk wanneer je een vorm gaat animeren en je de rotatie wil aanpassen, dat het ankerpunt (anchor point) van het object in het midden staat. Enkel dan kan de basisvorm roteren rond zijn middelpunt.
+
+![center-anchor-point](center-anchor-point.gif)
+
+
+#### Purge Cache
+
+Het kan zijn dat af en toe je After Effects programma traag werkt of begint te crashen. In dat geval moet je de cache purgen, dat doe je op volgende manier:
+
+![purge-cache](purge-cache.gif)
+
 ## 2. Oefening Basis Animatie
 
 In deze oefening leren we hoe we een basis animatie kunnen maken in After Effects en hoe we verschillende aanpassingen kunnen doen.
@@ -100,12 +117,6 @@ Op de afbeelding hieronder zie je ze nog allemaal eens op een rijtje:
 Hieronder zie je hoe je er aan begint:
 
 ![ ](create-comp.gif)
-
-### Anker punt standaard centreren
-
-Voor je er aan begint, zeer belangrijk dat je deze setting goed zet; het is belangrijk wanneer je een vorm gaat animeren en je de rotatie wil aanpassen, dat het ankerpunt (anchor point) van het object in het midden staat. Enkel dan kan de basisvorm roteren rond zijn middelpunt.
-
-![center-anchor-point](center-anchor-point.gif)
 
 ### Basisvorm aanmaken
 
@@ -190,6 +201,13 @@ En dan kies je de kleur van de broek.
 
 ![ ](bboy-leavecolor.gif)
 
+### 4.2 Time Remapping
+
+Af en toe, afhankelijk van hetgeen je moet doen, zal het interessant zijn / handig om het verloop van de tijd van verschillende lagen te manipuleren.
+
+Dit kan je op volgende manier:
+
+![ ](bboy-timeremap.gif)
 
 ## 5. OPDRACHT - Eerste (eigen) Animatie maken
 
@@ -236,7 +254,13 @@ Vervolgens gaan we de frame waarbij we willen dat die stilstaat en Hiervoor sele
 
 Vervolgens begin je de eekhoorn uit te knippen in Photoshop.
 
-Eenmaal je de eekhoorn hebt uitgeknipt breng je die terug in After Effects en zet je daar een gekleurde laag achter en animeer je een naam (bv je eigen naam) voor de eekhoorn.
+Eenmaal je de eekhoorn hebt uitgeknipt breng je die terug in After Effects.
+
+![](use-photoshop-layer-in-ae.gif)
+
+Nu zet je daar een gekleurde laag achter en animeer je een naam (bv je eigen naam) voor de eekhoorn.
+
+
 
 #### Stock Video's gratis
 
