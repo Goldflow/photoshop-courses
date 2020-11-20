@@ -261,6 +261,29 @@ Eenmaal je de eekhoorn hebt uitgeknipt breng je die terug in After Effects.
 Nu zet je daar een gekleurde laag achter en animeer je een naam (bv je eigen naam) voor de eekhoorn.
 
 
+### 2 extra tutorials
+
+Ik heb nog 2 extra tutorials toegevoegd voor de squirrel intro opdracht.
+Ik denk dat het duidelijker moet zijn eenmaal je die hebt bekeken:
+
+Hier in leg ik uit hoe je het volgende moet doen (dat ik ook al eerder in deze les heb uitgelegd):
+
+- hoe een solid / kleur achtergrond te maken
+- hoe een marker te gebruiken
+- hoe time remapping toe te passen (video laten pauzeren en verder laten lopen)
+- hoe je animatie kan maken
+- hoe je zichtbaarheid kan maken
+- hoe met verschillende lagen te werken
+- hoe je photoshop laag best importeert als die bestaat uit een frame
+- enkele idëeen om je opdracht tot een goed einde te brengen
+
+aarzel niet extra vragen te stellen als iets niet duidelijk is!
+
+[https://youtu.be/vaI3_itE16c](https://youtu.be/vaI3_itE16c)
+
+
+[https://youtu.be/kCrUcCn4ojs](https://youtu.be/kCrUcCn4ojs)
+
 
 #### Stock Video's gratis
 
