@@ -266,7 +266,10 @@ Nu zet je daar een gekleurde laag achter en animeer je een naam (bv je eigen naa
 Ik heb nog 2 extra tutorials toegevoegd voor de squirrel intro opdracht.
 Ik denk dat het duidelijker moet zijn eenmaal je die hebt bekeken:
 
-Hier in leg ik uit hoe je het volgende moet doen (dat ik ook al eerder in deze les heb uitgelegd):
+[Eerste video vind je hier](https://youtu.be/vaI3_itE16c)
+[Tweede video vind je hier](https://youtu.be/kCrUcCn4ojs)
+
+Daarin leg ik uit:
 
 - hoe een solid / kleur achtergrond te maken
 - hoe een marker te gebruiken
@@ -279,10 +282,7 @@ Hier in leg ik uit hoe je het volgende moet doen (dat ik ook al eerder in deze l
 
 aarzel niet extra vragen te stellen als iets niet duidelijk is!
 
-[https://youtu.be/vaI3_itE16c](https://youtu.be/vaI3_itE16c)
 
-
-[https://youtu.be/kCrUcCn4ojs](https://youtu.be/kCrUcCn4ojs)
 
 
 #### Stock Video's gratis
