@@ -9,7 +9,10 @@
 
 ## Les Overzicht
 
-- [Les 1](https://goldflow.github.io/photoshop-courses/les1) ( 17/09/2020 )
+29/09/2020 - 01/10/2020 internet problemen op school
+laatste les 10/11/2020 is ook geannulleerd
+
+- [Les 1](https://goldflow.github.io/photoshop-courses/les1) ( 15/09/2020 - 17/09/2020 )
   * [1. Inleiding](https://goldflow.github.io/photoshop-courses/les1#1-inleiding)
   * [2. Aan de slag met Photoshop CC](https://goldflow.github.io/photoshop-courses/les1#2-aan-de-slag-met-photoshop-cc)
   * [3. Lagen](https://goldflow.github.io/photoshop-courses/les1#3-lagen)
@@ -33,13 +36,13 @@
   * [1. Verkleuren - Kleuren aanpassen / veranderen](https://goldflow.github.io/photoshop-courses/les4#1-verkleuren)
   * [2. Handelingen automatiseren (automate actions)](https://goldflow.github.io/photoshop-courses/les4#2-handelingen-automatiseren)
   * [3 GIF: Web Animaties in Photoshop maken](https://goldflow.github.io/photoshop-courses/les4#3-gif--web-animaties-in-photoshop-maken)
-- [Les 5](https://goldflow.github.io/photoshop-courses/les5) ( 08/10/2020, 13/10/2020, 15/10/2020)
+- [Les 5](https://goldflow.github.io/photoshop-courses/les5) ( 08/10/2020, 13/10/2020, 15/10/2020, 20/10/2020)
   * [1. Reken op jezelf! (self reliance)](https://goldflow.github.io/photoshop-courses/les5#1-reken-op-jezelf-self-reliance)
   * [2. Herhaling](https://goldflow.github.io/photoshop-courses/les5#2-herhaling)
   * [3 OPDRACHT: Instructie Gif](https://goldflow.github.io/photoshop-courses/les5#3-opdracht-instructie-gif)
   * [4 OPDRACHT: Animal Things](https://goldflow.github.io/photoshop-courses/les5#4-opdracht-animal-things)
   * [5 OPDRACHT: Onverstoord Schaken](https://goldflow.github.io/photoshop-courses/les5#5-opdracht-onverstoord-schaken)
- - [Les 6: After Effects](https://goldflow.github.io/photoshop-courses/les6#les-6--after-effects)
+ - [Les 6: After Effects](https://goldflow.github.io/photoshop-courses/les6#les-6--after-effects) (22/10/2020, 27/10/2020, 29/10/2020)
    * [1. Introductie](https://goldflow.github.io/photoshop-courses/les6#1-introductie)
      + [1.1. Wat is After Effects](https://goldflow.github.io/photoshop-courses/les6#11-wat-is-after-effects)
        - [Kort](https://goldflow.github.io/photoshop-courses/les6#kort)
